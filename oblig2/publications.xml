@@ -352,13 +352,26 @@
 		<year>2014</year>
 	</article>
 
-		Substantive and meta-agreement
-		C List
-		Van Aaken et al., eds., Deliberation and Decision.  	11	2004
+	<bookchapter>
+		<title>Substantive and meta-agreement</title>
+		<author>C List</author>
+		<booktitle>Van Aaken et al., eds., Deliberation and Decision.</booktitle>
+		<cited>11</cited>	
+		<year>2004</year>
+	</bookchapter>
 
-		Swarm intelligence: When uncertainty meets conflict
-		L Conradt, C List, TJ Roper
-		The American Naturalist 182 (5), 592-610	10	2013
+	<article>
+		<title>Swarm intelligence: When uncertainty meets conflict</title>
+		<author>L Conradt</author>
+		<author>C List</author>
+		<author>TJ Roper</author>
+		<journal>The American Naturalist</journal>
+			<volume/>182</volume>
+			<number>5</number>
+		<pages>592-610</pages>
+		<cited>10</cited>
+		<year>2013</year>
+	</article>	
 
 		Judgment aggregation: a short introduction
 		C List
