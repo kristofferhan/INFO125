@@ -507,32 +507,70 @@
 		<year>2013</year>
 	</article>
 
+	<article>
+		<title>Freedom as independence</title>
+		<author>C List</author>
+		<author>L Valentini</author>
+		<journal>Ethics</journal> 
+			<volume>126</volume>
+			<number>4</number>
+		<pages>1043-1074</pages>	
+		<cited>3</cited>
+		<year>2016</cited>
+	</article>
 	
-		Freedom as independence
-		C List, L Valentini
-		Ethics 126 (4), 1043-1074	3	2016
+	<article>
+		<title>Belief revision generalized: A joint characterization of Bayes' and Jeffrey's rules</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<author>R Bradley</author>
+		<journal>Journal of Economic Theory</journal>
+			<volume>162</volume>
+		<pages>352–371</pages>
+		<cited>3</cited>
+		<year>2016</year>
+	</article>
 
-		Belief revision generalized: A joint characterization of Bayes' and Jeffrey's rules
-		F Dietrich, C List, R Bradley
-		Journal of Economic Theory 162, 352–371	3	2016
+	<bookchapter>
+		<title>My brain made me do it: The exclusion argument against free will, and what’s wrong with it</title>
+		<author>C List</author>
+		<author>P Menzies</author>
+		<booktitle>Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price</booktitle>
+		<cited>3</cited>
+		<year>2016</year>
+	</bookchapter>
 
-		My brain made me do it: The exclusion argument against free will, and what’s wrong with it
-		C List, P Menzies
-		Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price	3	2016
+	<article>
+		<title>What matters and how it matters: A choice-theoretic representation of moral theories</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Philosophical Review</journal>
+		<cited>2</cited>
+		<year>2017</year>
+	</article>
 
-		What matters and how it matters: A choice-theoretic representation of moral theories
-		F Dietrich, C List
-		Philosophical Review	2	2017
+	<bookchapter>
+		<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
+		<author>C List</author> 
+		<author>K Spiekermann</author>
+		<booktitle>Goldman and His Critics<booktitle>
+		<cited>2</cited>
+		<year>2016</year>
+	</bookchapter>
 
-		The Condorcet Jury Theorem and Voter-Specific Truth
-		C List, K Spiekermann
-		Goldman and His Critics,  	2	2016
-
-
-
-		Introduction to the special issue of economics and philosophy on ambiguity aversion
-		G Bonanno, M van Hees, C List, B Tungodden
-		Economics and Philosophy 25 (3), 247-248	2	2009
+	<article>
+		<title>Introduction to the special issue of economics and philosophy on ambiguity aversion</title>
+		<author>G Bonanno</author>
+		<author>M van Hees</author>
+		<author>C List</author>
+		<author>B Tungodden</author>
+		<journal>Economics and Philosophy</journal>
+			<volume>25</volume>
+			<number>3</number>
+		<pages>247-248</pages>
+		<cited>2</cited>
+		<year>2009</year>
+	</article>
 
 </publications>
    
