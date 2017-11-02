@@ -373,59 +373,141 @@
 		<year>2013</year>
 	</article>	
 
-		Judgment aggregation: a short introduction
-		C List
-		Handbook of the Philosophy of Economics	10	2012
+	<bookchapter>
+		<title>Judgment aggregation: a short introduction</title>
+		<author>C List</author>
+		<booktitle>Handbook of the Philosophy of Economics</booktitle>
+		<cited>10</cited>
+		<year>2012</year>
+	</bookchapter>
 
-		Intradimensional Single-peakedness and the Multidimensional Arrow Problem
-		C List
-		Theory and Decision	10	2004
+	<bookchapter>
+		<title>Intradimensional Single-peakedness and the Multidimensional Arrow Problem</title>
+		<author>C List</author>
+		<booktitle>Theory and Decision</booktitle>
+		<cited>10</cited>
+		<year>2004</year>
+	</bookchapter>
 
-		"Deliberative Polling" als Methode zum Erlernen des demokratischen Sprechens
-		C List, A Sliwka
-		Zeitschrift für Politik 51 (1), 87-105	10	2004
+	<article>
+		<title>"Deliberative Polling" als Methode zum Erlernen des demokratischen Sprechens</title>
+		<author>C List</author>
+		<author>A Sliwka</author>
+		<journal>Zeitschrift für Politik</journal>
+			<volume>51</volume>
+			<number>1</number>
+		<pages>87-105</pages>
+		<cited>10</cited>
+		<year>2004</year>
+	</article>
 
-		The methodology of political theory
-		C List, L Valentini
-		The Oxford Handbook of Philosophical Methodology, 	8	2016
+	<bookchapter>	
+		<title>The methodology of political theory</title>
+		<author>C List</author>
+		<author>L Valentini</author>
+		<booktitle>The Oxford Handbook of Philosophical Methodology</booktitle>
+		<cited>8</cited>
+		<year>2016</year>
+	</bookchapter>
+	
+	<article>
+		<title<Introduction to the special Issue of Economics and Philosophy on Neuroeconomics</title>
+		<author>G Bonanno</author>
+		<author>C List</author>
+		<author>B Tungodden</author>
+		<author>P Vallentyne</author>
+		<journal>Economics and Philosophy</journal>
+			<volume>24</volume>
+			<number>3</number>
+			<pages>301-302</pages>
+		<cited>8</cited>
+		<year>2008</year>
+	</article>
 
-		Introduction to the special Issue of Economics and Philosophy on Neuroeconomics
-		G Bonanno, C List, B Tungodden, P Vallentyne
-		Economics and Philosophy 24 (3), 301-302	8	2008
+	<article>
+		<title>Social choice theory and deliberative democracy: a response to Aldred</title>
+		<author>JS Dryzek</author> 
+		<author>C List</author>
+		<journal>British Journal of Political Science</journal>
+			<volume>34</volume>
+			<number>4</number>
+		<pages>752-758</pages>
+		<cited>8</cited>
+		<year>2004</year>
+	</article>
 
+	<article>
+		<title>A note on introducing a “zero‐line” of welfare as an escape route from Arrow’s theorem</article>
+		<author>C List</author>
+		<journal>Pacific Economic Review</journal>
+			<volume>6</volume>
+			<number>2</number>
+		<pages>223-238</pages>
+		<cited>7</cited>
+		<year>2001</year>
+	</article>
 
+	<article>
+		<title>Episteme symposium on group agency: Replies to Gaus, Cariani, Sylvan, and Briggs</title>
+		<author>C List</author>
+		<author>P Pettit</author>
+		<journal>Episteme</journal>
+			<volume>9</volume>
+			<number>3</number>
+		<pages>293</pages>
+		<cited>5</cited>
+		<year>2012</year>
+	</article>
 
-		Social choice theory and deliberative democracy: a response to Aldred
-		JS Dryzek, C List
-		British Journal of Political Science 34 (4), 752-758	8	2004
+	<article>
+		<title>Probabilistic opinion pooling generalized: Part two: The premise-based approach</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Social Choice and Welfare</journal>
+			<volume>48</volume>
+			<number>4</number>
+		<pages>787–814</pages>
+		<cited>4</cited>
+		<year>2017</year>
+	</article>
 
+	<article>
+		<title>Two intuitions about free will: Alternative possibilities and intentional endorsement</title>
+		<author>C List</author>
+		<author>W Rabinowicz</author>
+		<journal>Philosophical Perspectives</journal>
+			<volume>28</volume>
+			<number>1</number>
+		<pages>155-172</pages>
+		<cited>4</cited>
+		<year>2014</year>
+	</article>
 
-		A note on introducing a “zero‐line” of welfare as an escape route from Arrow’s theorem
-		C List
-		Pacific Economic Review 6 (2), 223-238	7	2001
+	<article>
+		<title>Independence and interdependence: Lessons from the hive</title>
+		<author>C List</author>
+		<author>A Vermeule</author>
+		<journal>Rationality and Society</journal>
+			<volume>26</volume>
+			<number>2</number>
+		<pages>170-207</pages>
+		<cited>4</cited>
+		<year>2014</year>
+	<article>
+	
+	<article>
+		<title>Reasons for (prior) belief in Bayesian epistemology</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Synthese</journal>
+			<volume>190</volume>
+			<number>5</number>
+		<pages>787-808</pages>
+		<cited>4</cited>
+		<year>2013</year>
+	</article>
 
-		Episteme symposium on group agency: Replies to Gaus, Cariani, Sylvan, and Briggs
-		C List, P Pettit
-		Episteme 9 (3), 293	5	2012
-
-		Probabilistic opinion pooling generalized: Part two: The premise-based approach
-		F Dietrich, C List
-		Social Choice and Welfare 48 (4), 787–814	4	2017
-
-
-		Two intuitions about free will: Alternative possibilities and intentional endorsement
-		C List, W Rabinowicz
-		Philosophical Perspectives 28 (1), 155-172	4	2014
-
-		Independence and interdependence: Lessons from the hive
-		C List, A Vermeule
-		Rationality and Society 26 (2), 170-207	4	2014
-
-		Reasons for (prior) belief in Bayesian epistemology
-		F Dietrich, C List
-		Synthese 190 (5), 787-808	4	2013
-
-
+	
 		Freedom as independence
 		C List, L Valentini
 		Ethics 126 (4), 1043-1074	3	2016
