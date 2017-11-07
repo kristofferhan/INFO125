@@ -155,7 +155,9 @@
 		<title>An epistemic free-riding problem</title>
 		<author>C List</author>
 		<author>P Pettit</author>
-		<collection>Karl Popper: Critical Appraisals, ed. Philip Catton and Graham Macdonald</collection>
+		<collection>Karl Popper: Critical Appraisals</collection>
+			<editor>Philip Catton</editor>
+			<editor>Graham Macdonaldz</editor>
 		<cited>25</cited>
 		<year>2004</year>
 	</chapter>
@@ -167,6 +169,7 @@
 		<journal>Department of Government, London School of Economics and Political Science</journal>
 		<cited>23</cited>
 		<year>2007</year>
+	</article>
 
 	<article>
 		<title>The impossibility of a Paretian republican? Some comments on Pettit and Sen</title>
@@ -738,7 +741,10 @@
 		<author>C List</author>
 		<journal>Economics and Philosophy</journal>
 			<volume>23</volume>
-			<number>3</number>, 269	123	2007
+			<number>3</number>
+		<onpages>269</onpages>
+		<cited>123</cited>
+		</year>2007</year>
 
 	Non-reductive physicalism and the limits of the exclusion principle
 	C List, P Menzies
