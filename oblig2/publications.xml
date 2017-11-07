@@ -35,7 +35,9 @@
 		<title>The Causal Autonomy of the Special Sciences</title>
 		<author>P Menzies</author>
 		<author>C List</author>
-		<collection>Emergence in Mind edited by C. Mcdonald and G. Mcdonald</collection>
+		<collection>Emergence in Mind</collection>
+			<editor>C. Mcdonald</editor>
+			<editor>G. Mcdonald</editor>
 		<cited>39</cited>
 		<year>2010</year>
 	</chapter>
@@ -535,7 +537,10 @@
 		<title>My brain made me do it: The exclusion argument against free will, and what’s wrong with it</title>
 		<author>C List</author>
 		<author>P Menzies</author>
-		<collection>Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price</collection>
+		<collection>Making a Difference</collection>
+			<editor>H. Beebee</editor>
+			<editor>C. Hitchcock</editor>
+			<editor>H. Price</editor>
 		<cited>3</cited>
 		<year>2016</year>
 	</chapter>
