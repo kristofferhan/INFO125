@@ -12,13 +12,13 @@
 		<year>2008</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>Social Choice Theory</title>
 		<author>C List</author>
 		<booktitle>Stanford Encyclopedia of Philosophy</booktitle>
 		<cited>40</cited>
 		<year>2013</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Group communication and the transformation of judgments: an impossibility result</title>
@@ -31,14 +31,14 @@
 		<year>2011</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>The Causal Autonomy of the Special Sciences</title>
 		<author>P Menzies</author>
 		<author>C List</author>
 		<booktitle>Emergence in Mind edited by C. Mcdonald and G. Mcdonald</booktitle>
 		<cited>39</cited>
 		<year>2010</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Republican freedom and the rule of law</title>
@@ -129,13 +129,13 @@
 		<year>2011</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>Deliberation and agreement</title>
 		<author>C List</author>
 		<booktitle>Deliberation, Participation and Democracy</booktitle>
 		<cited>26</cited>
 		<year>2007</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Framing as path dependence</title>
@@ -149,14 +149,14 @@
 		<year>2004</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>An epistemic free-riding problem</title>
 		<author>C List</author>
 		<author>P Pettit</author>
 		<booktitle>Karl Popper: Critical Appraisals, ed. Philip Catton and Graham Macdonald</booktitle>
 		<cited>25</cited>
 		<year>2004</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Judgment aggregation with consistency alone</title>
@@ -293,13 +293,13 @@
 		<year>2016</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>Collective Wisdom: Lessons from the Theory of Judgment Aggregation</title>
 		<author>C List</author>
 		<booktitle>Collective Wisdom: Principles and Mechanisms</booktitle>
 		<cited>14</cited>
 		<year>2012</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Multidimensional welfare aggregation</title>
@@ -322,13 +322,13 @@
 		<year>1999</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>When to Defer to Supermajority Testimony—and When Not</title>
 		<author>C List</author>
 		<booktitle>Essays in Collective Epistemology</booktitle>
 		<cited>13</cited>
 		<year>2014</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Which worlds are possible? A judgment aggregation problem</title>
@@ -352,13 +352,13 @@
 		<year>2014</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>Substantive and meta-agreement</title>
 		<author>C List</author>
 		<booktitle>Van Aaken et al., eds., Deliberation and Decision.</booktitle>
 		<cited>11</cited>	
 		<year>2004</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Swarm intelligence: When uncertainty meets conflict</title>
@@ -373,21 +373,21 @@
 		<year>2013</year>
 	</article>	
 
-	<bookchapter>
+	<chapter>
 		<title>Judgment aggregation: a short introduction</title>
 		<author>C List</author>
 		<booktitle>Handbook of the Philosophy of Economics</booktitle>
 		<cited>10</cited>
 		<year>2012</year>
-	</bookchapter>
+	</chapter>
 
-	<bookchapter>
+	<chapter>
 		<title>Intradimensional Single-peakedness and the Multidimensional Arrow Problem</title>
 		<author>C List</author>
 		<booktitle>Theory and Decision</booktitle>
 		<cited>10</cited>
 		<year>2004</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>"Deliberative Polling" als Methode zum Erlernen des demokratischen Sprechens</title>
@@ -401,14 +401,14 @@
 		<year>2004</year>
 	</article>
 
-	<bookchapter>	
+	<chapter>	
 		<title>The methodology of political theory</title>
 		<author>C List</author>
 		<author>L Valentini</author>
 		<booktitle>The Oxford Handbook of Philosophical Methodology</booktitle>
 		<cited>8</cited>
 		<year>2016</year>
-	</bookchapter>
+	</chapter>
 	
 	<article>
 		<title<Introduction to the special Issue of Economics and Philosophy on Neuroeconomics</title>
@@ -531,14 +531,14 @@
 		<year>2016</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>My brain made me do it: The exclusion argument against free will, and what’s wrong with it</title>
 		<author>C List</author>
 		<author>P Menzies</author>
 		<booktitle>Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price</booktitle>
 		<cited>3</cited>
 		<year>2016</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>What matters and how it matters: A choice-theoretic representation of moral theories</title>
@@ -549,14 +549,14 @@
 		<year>2017</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
 		<author>C List</author> 
 		<author>K Spiekermann</author>
 		<booktitle>Goldman and His Critics<booktitle>
 		<cited>2</cited>
 		<year>2016</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Introduction to the special issue of economics and philosophy on ambiguity aversion</title>
@@ -617,14 +617,14 @@
 		<year>2001</year>
 	</article>
 
-	<bookchapter>
+	<chapter>
 		<title>Judgment aggregation: A survey</title>
 		<author>C List</author>
 		<author>C Puppe</author>
 		<booktitle>Handbook of Rational and Social Choice</booktitle>
 		<cited>240</cited>
 		<year>2009</year>
-	</bookchapter>
+	</chapter>
 
 	<article>
 		<title>Arrow’s theorem in judgment aggregation</title>
@@ -718,95 +718,95 @@
 	</article>
 
 	A model of path-dependence in decisions over multiple propositions
-C List
-American Political Science Review 98, 495-514	124	2004
+	C List
+	American Political Science Review 98, 495-514	124	2004
 
-Strategy-proof judgment aggregation
-F Dietrich, C List
-Economics and Philosophy 23 (3), 269	123	2007
+	Strategy-proof judgment aggregation
+	F Dietrich, C List
+	Economics and Philosophy 23 (3), 269	123	2007
 
-Non-reductive physicalism and the limits of the exclusion principle
-C List, P Menzies
-Journal of Philosophy 106 (9), 475-502	106	2009
+	Non-reductive physicalism and the limits of the exclusion principle
+	C List, P Menzies
+	Journal of Philosophy 106 (9), 475-502	106	2009
 
-Democracy in animal groups: a political science perspective
-C List
-Trends in Ecology and Evolution 19 (4), 168-169	98	2004
+	Democracy in animal groups: a political science perspective
+	C List
+	Trends in Ecology and Evolution 19 (4), 168-169	98	2004
 
-A Reason‐Based Theory of Rational Choice
-F Dietrich, C List
-Nous 47 (1), 104-134	95	2013
+	A Reason‐Based Theory of Rational Choice
+	F Dietrich, C List
+	Nous 47 (1), 104-134	95	2013
 
-Judgment aggregation without full rationality
-F Dietrich, C List
-Social Choice and Welfare 31 (1), 15-39	95	2008
+	Judgment aggregation without full rationality
+	F Dietrich, C List
+	Social Choice and Welfare 31 (1), 15-39	95	2008
 
-Group agency and supervenience
-C List, P Pettit
-The Southern Journal of Philosophy 44 (S1), 85-105	87	2006
+	Group agency and supervenience
+	C List, P Pettit
+	The Southern Journal of Philosophy 44 (S1), 85-105	87	2006
 
-The probability of inconsistencies in complex collective decisions
-C List
-Social Choice and Welfare 24 (1), 3-32	82	2005
+	The probability of inconsistencies in complex collective decisions
+	C List
+	Social Choice and Welfare 24 (1), 3-32	82	2005
 
-Group knowledge and group rationality: a judgment aggregation perspective
-C List
-Episteme 2 (1), 25-38	79	2005
+	Group knowledge and group rationality: a judgment aggregation perspective
+	C List
+	Episteme 2 (1), 25-38	79	2005
 
-A model of jury decisions where all jurors have the same evidence
-F Dietrich, C List
-Synthese 142 (2), 175-202	77	2004
+	A model of jury decisions where all jurors have the same evidence
+	F Dietrich, C List
+	Synthese 142 (2), 175-202	77	2004
 
-Corrigendum to "A possibility theorem on aggregation over multiple interconnected propositions" [Mathematical Social Sciences 45 (2003), 1-13]
-C List
-Mathematical Social Sciences 52 (1), 109-110	73	2006
+	Corrigendum to "A possibility theorem on aggregation over multiple interconnected propositions" [Mathematical Social Sciences 45 (2003), 1-13]
+	C List
+	Mathematical Social Sciences 52 (1), 109-110	73	2006
 
-A possibility theorem on aggregation over multiple interconnected propositions
-C List
-Mathematical Social Sciences 45 (1), 1-13	73	2003
+	A possibility theorem on aggregation over multiple interconnected propositions
+	C List
+	Mathematical Social Sciences 45 (1), 1-13	73	2003
 
-Two concepts of agreement
-C List
-The Good Society 11 (1), 72-79	73	2002
+	Two concepts of agreement
+	C List
+	The Good Society 11 (1), 72-79	73	2002
 
-Methodological individualism and holism in political science: A reconciliation
-C List, K Spiekermann
-American Political Science Review 107 (4), 629-643	71	2013
+	Methodological individualism and holism in political science: A reconciliation
+	C List, K Spiekermann
+	American Political Science Review 107 (4), 629-643	71	2013
 
-Introduction to judgment aggregation
-C List, B Polak
-Journal of Economic Theory 145 (2), 441-466	71	2010
+	Introduction to judgment aggregation
+	C List, B Polak
+	Journal of Economic Theory 145 (2), 441-466	71	2010
 
- 
+	 
 
-On the many as one: a reply to Kornhauser and Sager
-C List, P Pettit
-Philosophy and Public Affairs 33 (4), 377-390	62	2005
+	On the many as one: a reply to Kornhauser and Sager
+	C List, P Pettit
+	Philosophy and Public Affairs 33 (4), 377-390	62	2005
 
-Where do preferences come from?
-F Dietrich, C List
-International Journal of Game Theory 42 (3), 613-637	61	2013
+	Where do preferences come from?
+	F Dietrich, C List
+	International Journal of Game Theory 42 (3), 613-637	61	2013
 
-Can There Be a Global Demos? An Agency‐Based Approach
-C List, M Koenig-Archibugi
-Philosophy and Public Affairs 38 (1), 76-110	57	2010
+	Can There Be a Global Demos? An Agency‐Based Approach
+	C List, M Koenig-Archibugi
+	Philosophy and Public Affairs 38 (1), 76-110	57	2010
 
-Majority voting on restricted domains
-F Dietrich, C List
-Journal of Economic Theory 145 (2), 512-543	56	2010
+	Majority voting on restricted domains
+	F Dietrich, C List
+	Journal of Economic Theory 145 (2), 512-543	56	2010
 
-A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment
-RE Goodin, C List
-American Journal of Political Science 50 (4), 940-949	54	2006
+	A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment
+	RE Goodin, C List
+	American Journal of Political Science 50 (4), 940-949	54	2006
 
 
-In Defence of Voting Power Analysis: Responses to Albert
-DS Felsenthal, D Leech, C List, M Machover
-European Union Politics 4 (4), 473-497	46	2003
+	In Defence of Voting Power Analysis: Responses to Albert
+	DS Felsenthal, D Leech, C List, M Machover
+	European Union Politics 4 (4), 473-497	46	2003
 
-Free will, determinism, and the possibility of doing otherwise
-C List
-Noûs 48 (1), 156-178	43	2014
+	Free will, determinism, and the possibility of doing otherwise
+	C List
+	Noûs 48 (1), 156-178	43	2014
 
 </publications>
    
