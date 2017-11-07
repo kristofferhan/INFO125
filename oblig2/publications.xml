@@ -241,7 +241,7 @@
 		<title>A simple proof of Sen's possibility theorem on majority decisions</title>
 		<author>C Elsholtz</author>
 		<author>C List</author>
-		<journal>Elemente der Mathematik</author>
+		<journal>Elemente der Mathematik</journal>
 			<volume>60</volume>
 			<number>2</number>
 		<pages>45-56</pages>
@@ -279,7 +279,7 @@
 		<author>F Dietrich</author>
 		<author>C List</author>
 		<journal>Theory and Decision</journal>
-			<volume>68</number>
+			<volume>68</volume>
 			<number>3</number>
 		<pages>281-299</pages>
 		<cited>15</cited>
@@ -343,7 +343,7 @@
 			<number>1</number>
 		<pages>57-65</pages>
 		<cited>12</cited>
-		<year>2008<year>
+		<year>2008</year>
 	</article>
 
 	<article>
@@ -371,7 +371,7 @@
 		<author>C List</author>
 		<author>TJ Roper</author>
 		<journal>The American Naturalist</journal>
-			<volume/>182</volume>
+			<volume>182</volume>
 			<number>5</number>
 		<pages>592-610</pages>
 		<cited>10</cited>
@@ -416,7 +416,7 @@
 	</chapter>
 	
 	<article>
-		<title<Introduction to the special Issue of Economics and Philosophy on Neuroeconomics</title>
+		<title>Introduction to the special Issue of Economics and Philosophy on Neuroeconomics</title>
 		<author>G Bonanno</author>
 		<author>C List</author>
 		<author>B Tungodden</author>
@@ -442,7 +442,7 @@
 	</article>
 
 	<article>
-		<title>A note on introducing a “zero‐line” of welfare as an escape route from Arrow’s theorem</article>
+		<title>A note on introducing a “zero‐line” of welfare as an escape route from Arrow’s theorem</title>
 		<author>C List</author>
 		<journal>Pacific Economic Review</journal>
 			<volume>6</volume>
@@ -521,7 +521,7 @@
 			<number>4</number>
 		<pages>1043-1074</pages>	
 		<cited>3</cited>
-		<year>2016</cited>
+		<year>2016</year>
 	</article>
 	
 	<article>
@@ -561,7 +561,7 @@
 		<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
 		<author>C List</author> 
 		<author>K Spiekermann</author>
-		<collection>Goldman and His Critics<collection>
+		<collection>Goldman and His Critics</collection>
 		<cited>2</cited>
 		<year>2016</year>
 	</chapter>
