@@ -15,7 +15,7 @@
 	<chapter>
 		<title>Social Choice Theory</title>
 		<author>C List</author>
-		<booktitle>Stanford Encyclopedia of Philosophy</booktitle>
+		<collection>Stanford Encyclopedia of Philosophy</collection>
 		<cited>40</cited>
 		<year>2013</year>
 	</chapter>
@@ -35,7 +35,7 @@
 		<title>The Causal Autonomy of the Special Sciences</title>
 		<author>P Menzies</author>
 		<author>C List</author>
-		<booktitle>Emergence in Mind edited by C. Mcdonald and G. Mcdonald</booktitle>
+		<collection>Emergence in Mind edited by C. Mcdonald and G. Mcdonald</collection>
 		<cited>39</cited>
 		<year>2010</year>
 	</chapter>
@@ -132,7 +132,7 @@
 	<chapter>
 		<title>Deliberation and agreement</title>
 		<author>C List</author>
-		<booktitle>Deliberation, Participation and Democracy</booktitle>
+		<collection>Deliberation, Participation and Democracy</collection>
 		<cited>26</cited>
 		<year>2007</year>
 	</chapter>
@@ -153,7 +153,7 @@
 		<title>An epistemic free-riding problem</title>
 		<author>C List</author>
 		<author>P Pettit</author>
-		<booktitle>Karl Popper: Critical Appraisals, ed. Philip Catton and Graham Macdonald</booktitle>
+		<collection>Karl Popper: Critical Appraisals, ed. Philip Catton and Graham Macdonald</collection>
 		<cited>25</cited>
 		<year>2004</year>
 	</chapter>
@@ -296,7 +296,7 @@
 	<chapter>
 		<title>Collective Wisdom: Lessons from the Theory of Judgment Aggregation</title>
 		<author>C List</author>
-		<booktitle>Collective Wisdom: Principles and Mechanisms</booktitle>
+		<collection>Collective Wisdom: Principles and Mechanisms</collection>
 		<cited>14</cited>
 		<year>2012</year>
 	</chapter>
@@ -325,7 +325,7 @@
 	<chapter>
 		<title>When to Defer to Supermajority Testimony—and When Not</title>
 		<author>C List</author>
-		<booktitle>Essays in Collective Epistemology</booktitle>
+		<collection>Essays in Collective Epistemology</collection>
 		<cited>13</cited>
 		<year>2014</year>
 	</chapter>
@@ -355,7 +355,7 @@
 	<chapter>
 		<title>Substantive and meta-agreement</title>
 		<author>C List</author>
-		<booktitle>Van Aaken et al., eds., Deliberation and Decision.</booktitle>
+		<collection>Van Aaken et al., eds., Deliberation and Decision.</collection>
 		<cited>11</cited>	
 		<year>2004</year>
 	</chapter>
@@ -376,7 +376,7 @@
 	<chapter>
 		<title>Judgment aggregation: a short introduction</title>
 		<author>C List</author>
-		<booktitle>Handbook of the Philosophy of Economics</booktitle>
+		<collection>Handbook of the Philosophy of Economics</collection>
 		<cited>10</cited>
 		<year>2012</year>
 	</chapter>
@@ -384,7 +384,7 @@
 	<chapter>
 		<title>Intradimensional Single-peakedness and the Multidimensional Arrow Problem</title>
 		<author>C List</author>
-		<booktitle>Theory and Decision</booktitle>
+		<collection>Theory and Decision</collection>
 		<cited>10</cited>
 		<year>2004</year>
 	</chapter>
@@ -405,7 +405,7 @@
 		<title>The methodology of political theory</title>
 		<author>C List</author>
 		<author>L Valentini</author>
-		<booktitle>The Oxford Handbook of Philosophical Methodology</booktitle>
+		<collection>The Oxford Handbook of Philosophical Methodology</collection>
 		<cited>8</cited>
 		<year>2016</year>
 	</chapter>
@@ -535,7 +535,7 @@
 		<title>My brain made me do it: The exclusion argument against free will, and what’s wrong with it</title>
 		<author>C List</author>
 		<author>P Menzies</author>
-		<booktitle>Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price</booktitle>
+		<collection>Making a Difference, edited by H. Beebee, C. Hitchcock, and H. Price</collection>
 		<cited>3</cited>
 		<year>2016</year>
 	</chapter>
@@ -553,7 +553,7 @@
 		<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
 		<author>C List</author> 
 		<author>K Spiekermann</author>
-		<booktitle>Goldman and His Critics<booktitle>
+		<collection>Goldman and His Critics<collection>
 		<cited>2</cited>
 		<year>2016</year>
 	</chapter>
@@ -621,7 +621,7 @@
 		<title>Judgment aggregation: A survey</title>
 		<author>C List</author>
 		<author>C Puppe</author>
-		<booktitle>Handbook of Rational and Social Choice</booktitle>
+		<collection>Handbook of Rational and Social Choice</collection>
 		<cited>240</cited>
 		<year>2009</year>
 	</chapter>
@@ -717,13 +717,23 @@
 		<year>2012</year>
 	</article>
 
-	A model of path-dependence in decisions over multiple propositions
-	C List
-	American Political Science Review 98, 495-514	124	2004
-
-	Strategy-proof judgment aggregation
-	F Dietrich, C List
-	Economics and Philosophy 23 (3), 269	123	2007
+	<article>
+		<title>A model of path-dependence in decisions over multiple propositions</title>
+		<author>C List</author>
+		<journal>American Political Science Review</journal>
+			<volume>98</volume>
+		<onpages>495-514</onpages>
+		<cited>124</cited>
+		<year>2004</year>
+	</article>
+	
+	<article>
+		<title>Strategy-proof judgment aggregation</journal>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Economics and Philosophy</journal>
+			<volume>23</volume>
+			<number>3</number>, 269	123	2007
 
 	Non-reductive physicalism and the limits of the exclusion principle
 	C List, P Menzies
