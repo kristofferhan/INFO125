@@ -745,30 +745,77 @@
 		<onpages>269</onpages>
 		<cited>123</cited>
 		</year>2007</year>
+	</article>
 
-	Non-reductive physicalism and the limits of the exclusion principle
-	C List, P Menzies
-	Journal of Philosophy 106 (9), 475-502	106	2009
+	<article>
+		<title>Non-reductive physicalism and the limits of the exclusion principle</title>
+		<author>C List</author>
+		<author>P Menzies</author>
+		<journal>Journal of Philosophy</author>
+			<volume>106</volume>
+			<number>9</number>
+		<onpages>475-502</onpages>	
+		<cited>106</cited>	
+		<year>2009</year>
+	</article>
 
-	Democracy in animal groups: a political science perspective
-	C List
-	Trends in Ecology and Evolution 19 (4), 168-169	98	2004
+	<article>
+		<title>Democracy in animal groups: a political science perspective</title>
+		<author>C List</author>
+		<journal>Trends in Ecology and Evolution</journal> 
+			<volume>19</volume>
+			<number>4</number>
+		<onpages>168-169</onpages>
+		<cited>98</cited>
+		<year>2004</year>
+	</article>
 
-	A Reason‐Based Theory of Rational Choice
-	F Dietrich, C List
-	Nous 47 (1), 104-134	95	2013
+	<article>
+		<title>A Reason-Based Theory of Rational Choice</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Nous</journal>
+			<volume>47</volume>
+			<number>1</number>
+		<onpages>104-134</onpages>
+		<cited>95</cited>
+		<year>2013</year>
+	</article>
 
-	Judgment aggregation without full rationality
-	F Dietrich, C List
-	Social Choice and Welfare 31 (1), 15-39	95	2008
+	<article>
+		<title>Judgment aggregation without full rationality</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Social Choice and Welfare</journal>
+			<volume>31</volume>
+			<number>1</number>
+		<onpages>15-39</onpages>
+		<cited>95</cited>
+		<year>2008</year>
+	</article>
+	
+	<article>
+		<title>Group agency and supervenience</title>
+		<author>C List</author> 
+		<author>P Pettit</author>
+		<journal>The Southern Journal of Philosophy</journal> 
+			<volume>44</volume>
+			<number>S1</number>
+		<onpages>85-105</onpages>
+		<cited>87</cited>
+		<year>2006</year>
+	</article>
 
-	Group agency and supervenience
-	C List, P Pettit
-	The Southern Journal of Philosophy 44 (S1), 85-105	87	2006
-
-	The probability of inconsistencies in complex collective decisions
-	C List
-	Social Choice and Welfare 24 (1), 3-32	82	2005
+	<article>
+		<title>The probability of inconsistencies in complex collective decisions</title>
+		<author>C List</author>
+		<journal>Social Choice and Welfare</journal>
+			<volume>24</volume>
+			<number>1</volume>
+		<onpages>3-32</onpages>
+		<cited>82</cited>
+		<year>2005</year>
+	</article>
 
 	Group knowledge and group rationality: a judgment aggregation perspective
 	C List
