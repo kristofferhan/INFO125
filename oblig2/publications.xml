@@ -241,7 +241,7 @@
 		<title>A simple proof of Sen's possibility theorem on majority decisions</title>
 		<author>C Elsholtz</author>
 		<author>C List</author>
-		<journal>Elemente der Mathematik</author>
+		<journal>Elemente der Mathematik</journal>
 			<volume>60</volume>
 			<number>2</number>
 		<pages>45-56</pages>
@@ -279,7 +279,7 @@
 		<author>F Dietrich</author>
 		<author>C List</author>
 		<journal>Theory and Decision</journal>
-			<volume>68</number>
+			<volume>68</volume>
 			<number>3</number>
 		<pages>281-299</pages>
 		<cited>15</cited>
@@ -343,7 +343,7 @@
 			<number>1</number>
 		<pages>57-65</pages>
 		<cited>12</cited>
-		<year>2008<year>
+		<year>2008</year>
 	</article>
 
 	<article>
