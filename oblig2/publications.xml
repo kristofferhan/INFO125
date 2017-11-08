@@ -890,35 +890,70 @@
 		<author>C List</author>
 		<author>B Polak</author>
 		<journal>Journal of Economic Theory</journal>
-			<volume>145<volume>2), 441-466	71	2010
-
-	On the many as one: a reply to Kornhauser and Sager
-	C List, P Pettit
-	Philosophy and Public Affairs 33 (4), 377-390	62	2005
-
-	Where do preferences come from?
-	F Dietrich, C List
-	International Journal of Game Theory 42 (3), 613-637	61	2013
-
-	Can There Be a Global Demos? An Agency‐Based Approach
-	C List, M Koenig-Archibugi
-	Philosophy and Public Affairs 38 (1), 76-110	57	2010
-
-	Majority voting on restricted domains
-	F Dietrich, C List
-	Journal of Economic Theory 145 (2), 512-543	56	2010
+			<volume>145</volume>
+			<number>2</number>
+		<onpages>441-466</onpages>
+		<cited>71</cited>
+		<year>2010</year>
+	</article>
+	
+	<article>
+		<title>On the many as one: a reply to Kornhauser and Sager</title>
+		<author>C List</author> 
+		<author>P Pettit</author>
+		<journal>Philosophy and Public Affairs</journal>
+			<volume>33</volume>
+			<number>4</number> 
+		<onpages>377-390</onpages>
+		<cited>62</cited>	
+		<year>2005</year>
+	</article>
+	
+	<article>
+		<title>Where do preferences come from?</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>International Journal of Game Theory</journal>
+			<volume>42</volume>
+			<number>3</number> 
+		<onpages>613-637</onpages>	
+		<cited>61</cited>	
+		<year>2013</year>
+	</article>
+	
+	<article>
+		<title>Can There Be a Global Demos? An Agency-Based Approach</title>
+		<author>C List</author>
+		<author>M Koenig-Archibugi</author>
+		<journal>Philosophy and Public Affairs </journal>
+			<volume>38 </volume>
+			<number>1</number> 
+		<onpages>76-110</onpages>
+		<cited>57</cited>	
+		<year>2010</year>
+	</article>
+	
+	<article>
+		<title>Majority voting on restricted domains
+	<author>F Dietrich<author>, <author>C List<author>
+	Journal of Economic Theory 
+	145 
+	(2), 
+	512-543	
+	56	
+	2010
 
 	A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment
-	RE Goodin, C List
+	<author>RE Goodin<author>, <author>C List<author>
 	American Journal of Political Science 50 (4), 940-949	54	2006
 
 
 	In Defence of Voting Power Analysis: Responses to Albert
-	DS Felsenthal, D Leech, C List, M Machover
+	<author>DS Felsenthal<author>, <author>D Leech<author>, <author>C List<author>, <author>M Machover<author>
 	European Union Politics 4 (4), 473-497	46	2003
 
 	Free will, determinism, and the possibility of doing otherwise
-	C List
+	<author>C List<author>
 	Noûs 48 (1), 156-178	43	2014
 
 </publications>
