@@ -204,6 +204,7 @@
 		<pages>31-37</pages>
 		<cited>21</cited>
 		<year>2008</year>
+	</article>
 
 	<article>
 		<title>The two-envelope paradox: An axiomatic approach</title>
@@ -499,7 +500,7 @@
 		<pages>170-207</pages>
 		<cited>4</cited>
 		<year>2014</year>
-	<article>
+	</article>
 	
 	<article>
 		<title>Reasons for (prior) belief in Bayesian epistemology</title>
@@ -974,7 +975,7 @@
 
 	<article>
 		<title>Free will, determinism, and the possibility of doing otherwise</title>
-		<author>C List<author>
+		<author>C List</author>
 		<journal>Noûs</journal>
 			<volume>48</volume>
 			<number>1</number>
@@ -984,4 +985,3 @@
 	</article>
 
 </publications>
-   
