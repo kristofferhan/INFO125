@@ -404,6 +404,7 @@
 		<pages>87-105</pages>
 		<cited>10</cited>
 		<year>2004</year>
+		<language>DE</language>
 	</article>
 
 	<chapter>	
@@ -442,7 +443,7 @@
 	</article>
 
 	<article>
-		<title>A note on introducing a “zero‐line” of welfare as an escape route from Arrow’s theorem</title>
+		<title>A note on introducing a “zero-line” of welfare as an escape route from Arrow’s theorem</title>
 		<author>C List</author>
 		<journal>Pacific Economic Review</journal>
 			<volume>6</volume>
@@ -934,27 +935,53 @@
 	</article>
 	
 	<article>
-		<title>Majority voting on restricted domains
-	<author>F Dietrich<author>, <author>C List<author>
-	Journal of Economic Theory 
-	145 
-	(2), 
-	512-543	
-	56	
-	2010
+		<title>Majority voting on restricted domains</title>
+		<author>F Dietrich</author>
+		<author>C List</author>
+		<journal>Journal of Economic Theory</journal> 
+			<volume>145</volume> 
+			<number>2</number> 
+		<onpages>512-543</onpages>	
+		<cited>56</cited>
+		<year>2010</year>
+	</article>
 
-	A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment
-	<author>RE Goodin<author>, <author>C List<author>
-	American Journal of Political Science 50 (4), 940-949	54	2006
+	<article>
+		<title>A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment</title>
+		<author>RE Goodin</author>
+		<author>C List</author>
+		<journal>American Journal of Political Science</journal>
+			<volume>50</volume>
+			<number>4</number>
+		<onpages>940-949</onpages>
+		<cited>54</cited>
+		<year>2006</year>
+	</article>
 
+	<article>
+		<title>In Defence of Voting Power Analysis: Responses to Albert</title>
+		<author>DS Felsenthal</author>
+		<author>D Leech</author>
+		<author>C List</author>
+		<author>M Machover</author>
+		<journal>European Union Politics</journal>
+			<volume>4</volume>
+			<number>4</number> 
+		<onpages>473-497</onpages>	
+		<cited>46</cited>	
+		<year>2003</year>
+	</article>
 
-	In Defence of Voting Power Analysis: Responses to Albert
-	<author>DS Felsenthal<author>, <author>D Leech<author>, <author>C List<author>, <author>M Machover<author>
-	European Union Politics 4 (4), 473-497	46	2003
-
-	Free will, determinism, and the possibility of doing otherwise
-	<author>C List<author>
-	Noûs 48 (1), 156-178	43	2014
+	<article>
+		<title>Free will, determinism, and the possibility of doing otherwise</title>
+		<author>C List<author>
+		<journal>Noûs</journal>
+			<volume>48</volume>
+			<number>1</number>
+		<onpages>156-178</onpages>
+		<cited>43</cited>
+		<year>2014</year>
+	</article>
 
 </publications>
    
