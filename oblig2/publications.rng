@@ -1,7 +1,12 @@
 <element xmlns="http://relaxng.org/ns/structure/1.0" name="publications">
 	<oneOrMore>
+		
 		<element name="article">
+			
 			<element name="title">
+				<text/>
+			</element>
+			<element name="author">
 				<text/>
 			</element>
 			<element name="author">
@@ -9,12 +14,12 @@
 			</element>
 			<element name ="journal">
 				<text/>
-				<element name="volume">
-					<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-				</element>
-				<element name="number">
-					<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-				</element>
+			</element>
+			<element name="volume">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+			</element>
+			<element name="number">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 			</element>
 			<element name="pages">
 				<text/>
@@ -26,6 +31,7 @@
 				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 			</element>
 		</element>
+		
 		<element name="book">
 			<attribute name="author"></attribute>
 		</element>
