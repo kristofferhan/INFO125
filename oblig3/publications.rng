@@ -9,9 +9,6 @@
 			<element name="author">
 				<text/>
 			</element>
-			<element name="author">
-				<text/>
-			</element>
 			<element name ="journal">
 				<text/>
 			</element>
@@ -33,10 +30,38 @@
 		</element>
 		
 		<element name="book">
-			<attribute name="author"></attribute>
+			<element name="author">
+				<text/>
+			</element>
+			<element name="publisher">
+				<text/>
+			</element>
+			<element name="totalpages">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+			</element>
+			<element name="year">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+			</element>
 		</element>
+		
 		<element name="chapter">
-			<attribute name="author"></attribute>
+			<element name="title">
+				<text/>
+			</element>
+			<element name="author">
+				<text/>
+			</element>
+			<element name="collection">
+				<text/>
+			</element>
+			<element name="cited">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+			</element>
+			<element name="year">
+				<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+			</element>
 		</element>
+		
+		
 	</oneOrMore>
 </element>
