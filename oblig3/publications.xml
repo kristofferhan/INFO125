@@ -1,995 +1,1022 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="publications.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<publications>
-	
-	<publication>
 
-		<article>
-			<title>A liberal paradox for judgment aggregation</title>
-			<authors>
+	<publications>
+		<publication>
+			<article>
+				<title>A liberal paradox for judgment aggregation</title>
 				<author>F Dietrich</author>
 				<author>C List</author>
-			</authors>
-			<journal>Social Choice and Welfare</journal>
-				<volume>31</volume>
-				<number>1</number>
-			<pages>59-78</pages>
-			<cited>42</cited>
-			<year>2008</year>
-		</article>
-		
-	</publication>
+				<journal>Social Choice and Welfare</journal>
+					<volume>31</volume>
+					<number>1</number>
+				<pages>59-78</pages>
+				<cited>42</cited>
+				<year>2008</year>
+			</article>
+		</publication>
+	
+		<publication>
+			<book>
+				<author></author>
+				<publisher></publisher>
+				<totalpages></totalpages>
+				<year></year>
+			</book>
+		</publication>
+		<chapter>
+			<title>Social Choice Theory</title>
+			<author>C List</author>
+			<collection>Stanford Encyclopedia of Philosophy</collection>
+			<cited>40</cited>
+			<year>2013</year>
+		</chapter>
 
-	<chapter>
-		<title>Social Choice Theory</title>
-		<author>C List</author>
-		<collection>Stanford Encyclopedia of Philosophy</collection>
-		<cited>40</cited>
-		<year>2013</year>
-	</chapter>
-
-	<article>
-		<title>Group communication and the transformation of judgments: an impossibility result</title>
-		<author>List</author>
-		<journal>Journal of Political Philosophy</journal>
+		<article>
+			<title>Group communication and the transformation of judgments: an impossibility
+				result</title>
+			<author>List</author>
+			<journal>Journal of Political Philosophy</journal>
 			<volume>19</volume>
 			<number>1</number>
-		<pages>1-27</pages>
-		<cited>39</cited>
-		<year>2011</year>
-	</article>
+			<pages>1-27</pages>
+			<cited>39</cited>
+			<year>2011</year>
+		</article>
 
-	<chapter>
-		<title>The Causal Autonomy of the Special Sciences</title>
-		<author>P Menzies</author>
-		<author>C List</author>
-		<collection>Emergence in Mind</collection>
+		<chapter>
+			<title>The Causal Autonomy of the Special Sciences</title>
+			<author>P Menzies</author>
+			<author>C List</author>
+			<collection>Emergence in Mind</collection>
 			<editor>C. Mcdonald</editor>
 			<editor>G. Mcdonald</editor>
-		<cited>39</cited>
-		<year>2010</year>
-	</chapter>
+			<cited>39</cited>
+			<year>2010</year>
+		</chapter>
 
-	<article>
-		<title>Republican freedom and the rule of law</title>
-		<author>C List</author>
-		<journal>Politics, Philosophy and Economics</journal>
+		<article>
+			<title>Republican freedom and the rule of law</title>
+			<author>C List</author>
+			<journal>Politics, Philosophy and Economics</journal>
 			<volume>5</volume>
 			<number>2</number>
-		<pages>201-220</pages>
-		<cited>39</cited>
-		<year>2006</year>
-	</article>
+			<pages>201-220</pages>
+			<cited>39</cited>
+			<year>2006</year>
+		</article>
 
-	<article>
-		<title>On the significance of the absolute margin</title>
-		<author>C List</author>
-		<journal>The British journal for the philosophy of science</journal>
+		<article>
+			<title>On the significance of the absolute margin</title>
+			<author>C List</author>
+			<journal>The British journal for the philosophy of science</journal>
 			<volume>55</volume>
 			<number>3</number>
-		<pages>521-544</pages>
-		<cited>33</cited>
-		<year>2004</year>
-	</article>
+			<pages>521-544</pages>
+			<cited>33</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>Propositionwise judgment aggregation: the general case</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>Propositionwise judgment aggregation: the general case</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>40</volume>
 			<number>4</number>
-		<pages>1067-1095</pages>
-		<cited>32</cited>
-		<year>2013</year>
-	</article>
+			<pages>1067-1095</pages>
+			<cited>32</cited>
+			<year>2013</year>
+		</article>
 
-	<book>
-		<title>Deliberation and decision: Economics, constitutional theory and deliberative democracy</title>
-		<author>A Van Aaken</author>
-		<author>C List</author>
-		<author>C Luetge</author>
-		<publisher>Ashgate Pub Ltd</publisher>
-		<cited>31</cited>
-		<year>2004</year>
-	</book>
+		<book>
+			<title>Deliberation and decision: Economics, constitutional theory and deliberative
+				democracy</title>
+			<author>A Van Aaken</author>
+			<author>C List</author>
+			<author>C Luetge</author>
+			<publisher>Ashgate Pub Ltd</publisher>
+			<cited>31</cited>
+			<year>2004</year>
+		</book>
 
-	<article>
-		<title>Are interpersonal comparisons of utility indeterminate?</title>
-		<author>C List</author>
-		<journal>Erkenntnis</journal>
+		<article>
+			<title>Are interpersonal comparisons of utility indeterminate?</title>
+			<author>C List</author>
+			<journal>Erkenntnis</journal>
 			<volume>58</volume>
 			<number>2</number>
-		<pages>229-260</pages>
-		<cited>30</cited>
-		<year>2003</year>
-	</article>
+			<pages>229-260</pages>
+			<cited>30</cited>
+			<year>2003</year>
+		</article>
 
 
-	<article>
-		<title>Mentalism versus Behaviourism in Economics: A Philosophy-of-Science Perspective</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Economics and Philosophy</journal>
-		<cited>27</cited>
-		<year>2016</year>
-	</article>
+		<article>
+			<title>Mentalism versus Behaviourism in Economics: A Philosophy-of-Science
+				Perspective</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Economics and Philosophy</journal>
+			<cited>27</cited>
+			<year>2016</year>
+		</article>
 
-	<article>
-		<title>Special majorities rationalized</title>
-		<author>RE Goodin</author>
-		<author>C List</author>
-		<journal>British Journal of Political Science</journal>
+		<article>
+			<title>Special majorities rationalized</title>
+			<author>RE Goodin</author>
+			<author>C List</author>
+			<journal>British Journal of Political Science</journal>
 			<volume>36</volume>
 			<number>2</number>
-		<pages>213</pages>
-		<cited>27</cited>
-		<year>2006</year>
-	</article>
+			<pages>213</pages>
+			<cited>27</cited>
+			<year>2006</year>
+		</article>
 
-	<article>
-		<title>A model of non-informational preference change</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Journal of Theoretical Politics</journal>
+		<article>
+			<title>A model of non-informational preference change</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Journal of Theoretical Politics</journal>
 			<volume>23</volume>
 			<number>2</number>
-		<pages>145-164</pages>
-		<cited>26</cited>
-		<year>2011</year>
-	</article>
+			<pages>145-164</pages>
+			<cited>26</cited>
+			<year>2011</year>
+		</article>
 
-	<chapter>
-		<title>Deliberation and agreement</title>
-		<author>C List</author>
-		<collection>Deliberation, Participation and Democracy</collection>
-		<cited>26</cited>
-		<year>2007</year>
-	</chapter>
+		<chapter>
+			<title>Deliberation and agreement</title>
+			<author>C List</author>
+			<collection>Deliberation, Participation and Democracy</collection>
+			<cited>26</cited>
+			<year>2007</year>
+		</chapter>
 
-	<article>
-		<title>Framing as path dependence</title>
-		<author>N Gold</author>
-		<author>C List</author>
-		<journal>Economics and Philosophy</journal>
+		<article>
+			<title>Framing as path dependence</title>
+			<author>N Gold</author>
+			<author>C List</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>20</volume>
 			<number>2</number>
-		<pages>253-277</pages>
-		<cited>26</cited>
-		<year>2004</year>
-	</article>
+			<pages>253-277</pages>
+			<cited>26</cited>
+			<year>2004</year>
+		</article>
 
-	<chapter>
-		<title>An epistemic free-riding problem</title>
-		<author>C List</author>
-		<author>P Pettit</author>
-		<collection>Karl Popper: Critical Appraisals</collection>
+		<chapter>
+			<title>An epistemic free-riding problem</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<collection>Karl Popper: Critical Appraisals</collection>
 			<editor>Philip Catton</editor>
 			<editor>Graham Macdonaldz</editor>
-		<cited>25</cited>
-		<year>2004</year>
-	</chapter>
+			<cited>25</cited>
+			<year>2004</year>
+		</chapter>
 
-	<article>
-		<title>Judgment aggregation with consistency alone</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Department of Government, London School of Economics and Political Science</journal>
-		<cited>23</cited>
-		<year>2007</year>
-	</article>
+		<article>
+			<title>Judgment aggregation with consistency alone</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Department of Government, London School of Economics and Political
+				Science</journal>
+			<cited>23</cited>
+			<year>2007</year>
+		</article>
 
-	<article>
-		<title>The impossibility of a Paretian republican? Some comments on Pettit and Sen</title>
-		<author>C List</author>
-		<journal>Economics and Philosophy</journal>
+		<article>
+			<title>The impossibility of a Paretian republican? Some comments on Pettit and
+				Sen</title>
+			<author>C List</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>20</volume>
 			<number>01</number>
-		<pages>65-87</pages>
-		<cited>23</cited>
-		<year>2004</year>
-	</article>
+			<pages>65-87</pages>
+			<cited>23</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>Probabilistic opinion pooling generalized: Part one: General agendas</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>Probabilistic opinion pooling generalized: Part one: General agendas</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>48</volume>
 			<number>4</number>
-		<pages>747–786</pages>
-		<cited>22</cited>
-		<year>2017</year>
-	</article>
+			<pages>747–786</pages>
+			<cited>22</cited>
+			<year>2017</year>
+		</article>
 
-	<article>
-		<title>Desire-as-belief revisited</title>
-		<author>R Bradley</author>
-		<author>List</author>
-		<journal>Analysis</journal>
+		<article>
+			<title>Desire-as-belief revisited</title>
+			<author>R Bradley</author>
+			<author>List</author>
+			<journal>Analysis</journal>
 			<volume>69</volume>
 			<number>1</number>
-		<pages>31-37</pages>
-		<cited>21</cited>
-		<year>2008</year>
-	</article>
+			<pages>31-37</pages>
+			<cited>21</cited>
+			<year>2008</year>
+		</article>
 
-	<article>
-		<title>The two-envelope paradox: An axiomatic approach</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Mind</journal>
+		<article>
+			<title>The two-envelope paradox: An axiomatic approach</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Mind</journal>
 			<volume>114</volume>
 			<number>454</number>
-		<pages>239-248</pages>
-		<cited>20</cited>
-		<year>2005</year>
-	</article>
+			<pages>239-248</pages>
+			<cited>20</cited>
+			<year>2005</year>
+		</article>
 
-	<article>
-		<title>The logical space of democracy</title>
-		<author>C List</author>
-		<journal>Philosophy and Public Affairs</journal>
+		<article>
+			<title>The logical space of democracy</title>
+			<author>C List</author>
+			<journal>Philosophy and Public Affairs</journal>
 			<volume>39</volume>
 			<number>3</number>
-		<pages>262-297</pages>
-		<cited>19</cited>
-		<year>2011</year>
-	</article>
+			<pages>262-297</pages>
+			<cited>19</cited>
+			<year>2011</year>
+		</article>
 
-	<article>
-		<title>Opinion pooling on general agendas</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Department of Government, London School of Economics and Political Science</journal>
-		<cited>19</cited>
-		<year>2008</year>
-	</article>
+		<article>
+			<title>Opinion pooling on general agendas</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Department of Government, London School of Economics and Political
+				Science</journal>
+			<cited>19</cited>
+			<year>2008</year>
+		</article>
 
-	<article>
-		<title>A simple proof of Sen's possibility theorem on majority decisions</title>
-		<author>C Elsholtz</author>
-		<author>C List</author>
-		<journal>Elemente der Mathematik</journal>
+		<article>
+			<title>A simple proof of Sen's possibility theorem on majority decisions</title>
+			<author>C Elsholtz</author>
+			<author>C List</author>
+			<journal>Elemente der Mathematik</journal>
 			<volume>60</volume>
 			<number>2</number>
-		<pages>45-56</pages>
-		<cited>19</cited>
-		<year>2005</year>
-	</article>
+			<pages>45-56</pages>
+			<cited>19</cited>
+			<year>2005</year>
+		</article>
 
-	<article>
-		<title>Aggregating causal judgements</title>
-		<author>R Bradley</author>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Philosophy of Science</journal>
+		<article>
+			<title>Aggregating causal judgements</title>
+			<author>R Bradley</author>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Philosophy of Science</journal>
 			<volume>81</volume>
 			<number>4</number>
-		<pages>491-515</pages>
-		<cited>17</cited>
-		<year>2014</year>
-	</article>
+			<pages>491-515</pages>
+			<cited>17</cited>
+			<year>2014</year>
+		</article>
 
-	<article>
-		<title>Emergent Chance</title>
-		<author>C List</author>
-		<author>M Pivato</author>
-		<journal>The Philosophical Review</journal>
+		<article>
+			<title>Emergent Chance</title>
+			<author>C List</author>
+			<author>M Pivato</author>
+			<journal>The Philosophical Review</journal>
 			<volume>124</volume>
 			<number>1</number>
-		<pages>119-152</pages>
-		<cited>15</cited>
-		<year>2015</year>
-	</article>
+			<pages>119-152</pages>
+			<cited>15</cited>
+			<year>2015</year>
+		</article>
 
-	<article>
-		<title>The impossibility of unbiased judgment aggregation</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Theory and Decision</journal>
+		<article>
+			<title>The impossibility of unbiased judgment aggregation</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Theory and Decision</journal>
 			<volume>68</volume>
 			<number>3</number>
-		<pages>281-299</pages>
-		<cited>15</cited>
-		<year>2010</year>
-	</article>
+			<pages>281-299</pages>
+			<cited>15</cited>
+			<year>2010</year>
+		</article>
 
-	<article>
-		<title>Reason-based choice and context-dependence: An explanatory framework</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Economics and Philosophy</journal>
+		<article>
+			<title>Reason-based choice and context-dependence: An explanatory framework</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>32</volume>
 			<number>2</number>
-		<pages>175-229</pages>
-		<cited>14</cited>
-		<year>2016</year>
-	</article>
+			<pages>175-229</pages>
+			<cited>14</cited>
+			<year>2016</year>
+		</article>
 
-	<chapter>
-		<title>Collective Wisdom: Lessons from the Theory of Judgment Aggregation</title>
-		<author>C List</author>
-		<collection>Collective Wisdom: Principles and Mechanisms</collection>
-		<cited>14</cited>
-		<year>2012</year>
-	</chapter>
+		<chapter>
+			<title>Collective Wisdom: Lessons from the Theory of Judgment Aggregation</title>
+			<author>C List</author>
+			<collection>Collective Wisdom: Principles and Mechanisms</collection>
+			<cited>14</cited>
+			<year>2012</year>
+		</chapter>
 
-	<article>
-		<title>Multidimensional welfare aggregation</title>
-		<author>C List</author>
-		<journal>Public Choice</journal>
+		<article>
+			<title>Multidimensional welfare aggregation</title>
+			<author>C List</author>
+			<journal>Public Choice</journal>
 			<volume>119</volume>
 			<number>1-2</number>
-		<pages>119-142</pages>
-		<cited>14</cited>
-		<year>2004</year>
-	</article>
+			<pages>119-142</pages>
+			<cited>14</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>Craig's theorem and the empirical underdetermination thesis reassessed</title>
-		<author>C List</author>
-		<journal>Disputatio</journal>
+		<article>
+			<title>Craig's theorem and the empirical underdetermination thesis reassessed</title>
+			<author>C List</author>
+			<journal>Disputatio</journal>
 			<volume>7</volume>
-		<pages>28-39</pages>
-		<cited>14</cited>
-		<year>1999</year>
-	</article>
+			<pages>28-39</pages>
+			<cited>14</cited>
+			<year>1999</year>
+		</article>
 
-	<chapter>
-		<title>When to Defer to Supermajority Testimony—and When Not</title>
-		<author>C List</author>
-		<collection>Essays in Collective Epistemology</collection>
-		<cited>13</cited>
-		<year>2014</year>
-	</chapter>
+		<chapter>
+			<title>When to Defer to Supermajority Testimony—and When Not</title>
+			<author>C List</author>
+			<collection>Essays in Collective Epistemology</collection>
+			<cited>13</cited>
+			<year>2014</year>
+		</chapter>
 
-	<article>
-		<title>Which worlds are possible? A judgment aggregation problem</title>
-		<author>C List</author>
-		<journal>Journal of Philosophical Logic</journal>
+		<article>
+			<title>Which worlds are possible? A judgment aggregation problem</title>
+			<author>C List</author>
+			<journal>Journal of Philosophical Logic</journal>
 			<volume>37</volume>
 			<number>1</number>
-		<pages>57-65</pages>
-		<cited>12</cited>
-		<year>2008</year>
-	</article>
+			<pages>57-65</pages>
+			<cited>12</cited>
+			<year>2008</year>
+		</article>
 
-	<article>
-		<title>Three kinds of collective attitudes</title>
-		<author>C List</author>
-		<journal>Erkenntnis</journal>
+		<article>
+			<title>Three kinds of collective attitudes</title>
+			<author>C List</author>
+			<journal>Erkenntnis</journal>
 			<volume>79</volume>
 			<number>9</number>
-		<pages>1601-1622</pages>
-		<cited>11</cited>
-		<year>2014</year>
-	</article>
+			<pages>1601-1622</pages>
+			<cited>11</cited>
+			<year>2014</year>
+		</article>
 
-	<chapter>
-		<title>Substantive and meta-agreement</title>
-		<author>C List</author>
-		<collection>Van Aaken et al., eds., Deliberation and Decision.</collection>
-		<cited>11</cited>	
-		<year>2004</year>
-	</chapter>
+		<chapter>
+			<title>Substantive and meta-agreement</title>
+			<author>C List</author>
+			<collection>Van Aaken et al., eds., Deliberation and Decision.</collection>
+			<cited>11</cited>
+			<year>2004</year>
+		</chapter>
 
-	<article>
-		<title>Swarm intelligence: When uncertainty meets conflict</title>
-		<author>L Conradt</author>
-		<author>C List</author>
-		<author>TJ Roper</author>
-		<journal>The American Naturalist</journal>
+		<article>
+			<title>Swarm intelligence: When uncertainty meets conflict</title>
+			<author>L Conradt</author>
+			<author>C List</author>
+			<author>TJ Roper</author>
+			<journal>The American Naturalist</journal>
 			<volume>182</volume>
 			<number>5</number>
-		<pages>592-610</pages>
-		<cited>10</cited>
-		<year>2013</year>
-	</article>	
+			<pages>592-610</pages>
+			<cited>10</cited>
+			<year>2013</year>
+		</article>
 
-	<chapter>
-		<title>Judgment aggregation: a short introduction</title>
-		<author>C List</author>
-		<collection>Handbook of the Philosophy of Economics</collection>
-		<cited>10</cited>
-		<year>2012</year>
-	</chapter>
+		<chapter>
+			<title>Judgment aggregation: a short introduction</title>
+			<author>C List</author>
+			<collection>Handbook of the Philosophy of Economics</collection>
+			<cited>10</cited>
+			<year>2012</year>
+		</chapter>
 
-	<chapter>
-		<title>Intradimensional Single-peakedness and the Multidimensional Arrow Problem</title>
-		<author>C List</author>
-		<collection>Theory and Decision</collection>
-		<cited>10</cited>
-		<year>2004</year>
-	</chapter>
+		<chapter>
+			<title>Intradimensional Single-peakedness and the Multidimensional Arrow Problem</title>
+			<author>C List</author>
+			<collection>Theory and Decision</collection>
+			<cited>10</cited>
+			<year>2004</year>
+		</chapter>
 
-	<article>
-		<title lang="de">"Deliberative Polling" als Methode zum Erlernen des demokratischen Sprechens</title>
-		<author>C List</author>
-		<author>A Sliwka</author>
-		<journal>Zeitschrift für Politik</journal>
+		<article>
+			<title lang="de">"Deliberative Polling" als Methode zum Erlernen des demokratischen
+				Sprechens</title>
+			<author>C List</author>
+			<author>A Sliwka</author>
+			<journal>Zeitschrift für Politik</journal>
 			<volume>51</volume>
 			<number>1</number>
-		<pages>87-105</pages>
-		<cited>10</cited>
-		<year>2004</year>
-		<language>DE</language>
-	</article>
+			<pages>87-105</pages>
+			<cited>10</cited>
+			<year>2004</year>
+			<language>DE</language>
+		</article>
 
-	<chapter>	
-		<title>The methodology of political theory</title>
-		<author>C List</author>
-		<author>L Valentini</author>
-		<collection>The Oxford Handbook of Philosophical Methodology</collection>
-		<cited>8</cited>
-		<year>2016</year>
-	</chapter>
-	
-	<article>
-		<title>Introduction to the special Issue of Economics and Philosophy on Neuroeconomics</title>
-		<author>G Bonanno</author>
-		<author>C List</author>
-		<author>B Tungodden</author>
-		<author>P Vallentyne</author>
-		<journal>Economics and Philosophy</journal>
+		<chapter>
+			<title>The methodology of political theory</title>
+			<author>C List</author>
+			<author>L Valentini</author>
+			<collection>The Oxford Handbook of Philosophical Methodology</collection>
+			<cited>8</cited>
+			<year>2016</year>
+		</chapter>
+
+		<article>
+			<title>Introduction to the special Issue of Economics and Philosophy on
+				Neuroeconomics</title>
+			<author>G Bonanno</author>
+			<author>C List</author>
+			<author>B Tungodden</author>
+			<author>P Vallentyne</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>24</volume>
 			<number>3</number>
 			<pages>301-302</pages>
-		<cited>8</cited>
-		<year>2008</year>
-	</article>
+			<cited>8</cited>
+			<year>2008</year>
+		</article>
 
-	<article>
-		<title>Social choice theory and deliberative democracy: a response to Aldred</title>
-		<author>JS Dryzek</author> 
-		<author>C List</author>
-		<journal>British Journal of Political Science</journal>
+		<article>
+			<title>Social choice theory and deliberative democracy: a response to Aldred</title>
+			<author>JS Dryzek</author>
+			<author>C List</author>
+			<journal>British Journal of Political Science</journal>
 			<volume>34</volume>
 			<number>4</number>
-		<pages>752-758</pages>
-		<cited>8</cited>
-		<year>2004</year>
-	</article>
+			<pages>752-758</pages>
+			<cited>8</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>A note on introducing a “zero-line” of welfare as an escape route from Arrow’s theorem</title>
-		<author>C List</author>
-		<journal>Pacific Economic Review</journal>
+		<article>
+			<title>A note on introducing a “zero-line” of welfare as an escape route from Arrow’s
+				theorem</title>
+			<author>C List</author>
+			<journal>Pacific Economic Review</journal>
 			<volume>6</volume>
 			<number>2</number>
-		<pages>223-238</pages>
-		<cited>7</cited>
-		<year>2001</year>
-	</article>
+			<pages>223-238</pages>
+			<cited>7</cited>
+			<year>2001</year>
+		</article>
 
-	<article>
-		<title>Episteme symposium on group agency: Replies to Gaus, Cariani, Sylvan, and Briggs</title>
-		<author>C List</author>
-		<author>P Pettit</author>
-		<journal>Episteme</journal>
+		<article>
+			<title>Episteme symposium on group agency: Replies to Gaus, Cariani, Sylvan, and
+				Briggs</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<journal>Episteme</journal>
 			<volume>9</volume>
 			<number>3</number>
-		<pages>293</pages>
-		<cited>5</cited>
-		<year>2012</year>
-	</article>
+			<pages>293</pages>
+			<cited>5</cited>
+			<year>2012</year>
+		</article>
 
-	<article>
-		<title>Probabilistic opinion pooling generalized: Part two: The premise-based approach</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>Probabilistic opinion pooling generalized: Part two: The premise-based
+				approach</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>48</volume>
 			<number>4</number>
-		<pages>787–814</pages>
-		<cited>4</cited>
-		<year>2017</year>
-	</article>
+			<pages>787–814</pages>
+			<cited>4</cited>
+			<year>2017</year>
+		</article>
 
-	<article>
-		<title>Two intuitions about free will: Alternative possibilities and intentional endorsement</title>
-		<author>C List</author>
-		<author>W Rabinowicz</author>
-		<journal>Philosophical Perspectives</journal>
+		<article>
+			<title>Two intuitions about free will: Alternative possibilities and intentional
+				endorsement</title>
+			<author>C List</author>
+			<author>W Rabinowicz</author>
+			<journal>Philosophical Perspectives</journal>
 			<volume>28</volume>
 			<number>1</number>
-		<pages>155-172</pages>
-		<cited>4</cited>
-		<year>2014</year>
-	</article>
+			<pages>155-172</pages>
+			<cited>4</cited>
+			<year>2014</year>
+		</article>
 
-	<article>
-		<title>Independence and interdependence: Lessons from the hive</title>
-		<author>C List</author>
-		<author>A Vermeule</author>
-		<journal>Rationality and Society</journal>
+		<article>
+			<title>Independence and interdependence: Lessons from the hive</title>
+			<author>C List</author>
+			<author>A Vermeule</author>
+			<journal>Rationality and Society</journal>
 			<volume>26</volume>
 			<number>2</number>
-		<pages>170-207</pages>
-		<cited>4</cited>
-		<year>2014</year>
-	</article>
-	
-	<article>
-		<title>Reasons for (prior) belief in Bayesian epistemology</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Synthese</journal>
+			<pages>170-207</pages>
+			<cited>4</cited>
+			<year>2014</year>
+		</article>
+
+		<article>
+			<title>Reasons for (prior) belief in Bayesian epistemology</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Synthese</journal>
 			<volume>190</volume>
 			<number>5</number>
-		<pages>787-808</pages>
-		<cited>4</cited>
-		<year>2013</year>
-	</article>
+			<pages>787-808</pages>
+			<cited>4</cited>
+			<year>2013</year>
+		</article>
 
-	<article>
-		<title>Freedom as independence</title>
-		<author>C List</author>
-		<author>L Valentini</author>
-		<journal>Ethics</journal> 
+		<article>
+			<title>Freedom as independence</title>
+			<author>C List</author>
+			<author>L Valentini</author>
+			<journal>Ethics</journal>
 			<volume>126</volume>
 			<number>4</number>
-		<pages>1043-1074</pages>	
-		<cited>3</cited>
-		<year>2016</year>
-	</article>
-	
-	<article>
-		<title>Belief revision generalized: A joint characterization of Bayes' and Jeffrey's rules</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<author>R Bradley</author>
-		<journal>Journal of Economic Theory</journal>
-			<volume>162</volume>
-		<pages>352–371</pages>
-		<cited>3</cited>
-		<year>2016</year>
-	</article>
+			<pages>1043-1074</pages>
+			<cited>3</cited>
+			<year>2016</year>
+		</article>
 
-	<chapter>
-		<title>My brain made me do it: The exclusion argument against free will, and what’s wrong with it</title>
-		<author>C List</author>
-		<author>P Menzies</author>
-		<collection>Making a Difference</collection>
+		<article>
+			<title>Belief revision generalized: A joint characterization of Bayes' and Jeffrey's
+				rules</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<author>R Bradley</author>
+			<journal>Journal of Economic Theory</journal>
+			<volume>162</volume>
+			<pages>352–371</pages>
+			<cited>3</cited>
+			<year>2016</year>
+		</article>
+
+		<chapter>
+			<title>My brain made me do it: The exclusion argument against free will, and what’s
+				wrong with it</title>
+			<author>C List</author>
+			<author>P Menzies</author>
+			<collection>Making a Difference</collection>
 			<editor>H. Beebee</editor>
 			<editor>C. Hitchcock</editor>
 			<editor>H. Price</editor>
-		<cited>3</cited>
-		<year>2016</year>
-	</chapter>
+			<cited>3</cited>
+			<year>2016</year>
+		</chapter>
 
-	<article>
-		<title>What matters and how it matters: A choice-theoretic representation of moral theories</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Philosophical Review</journal>
-		<cited>2</cited>
-		<year>2017</year>
-	</article>
+		<article>
+			<title>What matters and how it matters: A choice-theoretic representation of moral
+				theories</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Philosophical Review</journal>
+			<cited>2</cited>
+			<year>2017</year>
+		</article>
 
-	<chapter>
-		<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
-		<author>C List</author> 
-		<author>K Spiekermann</author>
-		<collection>Goldman and His Critics</collection>
-		<cited>2</cited>
-		<year>2016</year>
-	</chapter>
+		<chapter>
+			<title>The Condorcet Jury Theorem and Voter-Specific Truth</title>
+			<author>C List</author>
+			<author>K Spiekermann</author>
+			<collection>Goldman and His Critics</collection>
+			<cited>2</cited>
+			<year>2016</year>
+		</chapter>
 
-	<article>
-		<title>Introduction to the special issue of economics and philosophy on ambiguity aversion</title>
-		<author>G Bonanno</author>
-		<author>M van Hees</author>
-		<author>C List</author>
-		<author>B Tungodden</author>
-		<journal>Economics and Philosophy</journal>
+		<article>
+			<title>Introduction to the special issue of economics and philosophy on ambiguity
+				aversion</title>
+			<author>G Bonanno</author>
+			<author>M van Hees</author>
+			<author>C List</author>
+			<author>B Tungodden</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>25</volume>
 			<number>3</number>
-		<pages>247-248</pages>
-		<cited>2</cited>
-		<year>2009</year>
-	</article>
-	
-	<book>
-		<title>Group agency: The possibility, design, and status of corporate agents</title>
-		<author>C List</author>
-		<author>P Pettit</author>
-		<publisher>Oxford University Press</publisher>
-		<totalpages>598</totalpages>
-		<year>2011</year>
-	</book>
+			<pages>247-248</pages>
+			<cited>2</cited>
+			<year>2009</year>
+		</article>
 
-	<article>	
-		<title>Aggregating sets of judgments: An impossibility result</title>
-		<author>C List</author>
-		<author>P Pettit</author>
-		<journal>Economics and Philosophy</journal>
+		<book>
+			<title>Group agency: The possibility, design, and status of corporate agents</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<publisher>Oxford University Press</publisher>
+			<totalpages>598</totalpages>
+			<year>2011</year>
+		</book>
+
+		<article>
+			<title>Aggregating sets of judgments: An impossibility result</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>18</volume>
 			<number>1</number>
-		<onpages>89-110</onpages>
-		<cited>558</cited>
-		<year>2002</year>
-	</article>
+			<onpages>89-110</onpages>
+			<cited>558</cited>
+			<year>2002</year>
+		</article>
 
-	<article>
-		<title>Social choice theory and deliberative democracy: a reconciliation</title>
-		<author>JS Dryzek</author>
-		<author>C List</author>
-		<journal>British Journal of Political Science</journal>
+		<article>
+			<title>Social choice theory and deliberative democracy: a reconciliation</title>
+			<author>JS Dryzek</author>
+			<author>C List</author>
+			<journal>British Journal of Political Science</journal>
 			<volume>33</volume>
 			<number>1</number>
-		<onpages>1-28</onpages>
-		<cited>479</cited>
-		<year>2003</year>
-	</article>
+			<onpages>1-28</onpages>
+			<cited>479</cited>
+			<year>2003</year>
+		</article>
 
-	<article>
-		<title>Epistemic democracy: generalizing the Condorcet jury theorem</title>
-		<author>C List</author>
-		<author>RE Goodin</author>
-		<journal>Journal of Political Philosophy</journal>
+		<article>
+			<title>Epistemic democracy: generalizing the Condorcet jury theorem</title>
+			<author>C List</author>
+			<author>RE Goodin</author>
+			<journal>Journal of Political Philosophy</journal>
 			<volume>9</volume>
 			<number>3</number>
-		<onpages>277-306</onpages>
-		<cited>409</cited>
-		<year>2001</year>
-	</article>
+			<onpages>277-306</onpages>
+			<cited>409</cited>
+			<year>2001</year>
+		</article>
 
-	<chapter>
-		<title>Judgment aggregation: A survey</title>
-		<author>C List</author>
-		<author>C Puppe</author>
-		<collection>Handbook of Rational and Social Choice</collection>
-		<cited>240</cited>
-		<year>2009</year>
-	</chapter>
+		<chapter>
+			<title>Judgment aggregation: A survey</title>
+			<author>C List</author>
+			<author>C Puppe</author>
+			<collection>Handbook of Rational and Social Choice</collection>
+			<cited>240</cited>
+			<year>2009</year>
+		</chapter>
 
-	<article>
-		<title>Arrow’s theorem in judgment aggregation</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>Arrow’s theorem in judgment aggregation</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>29</volume>
 			<number>1</number>
-		<onpages>19-33</onpages>
-		<cited>220</cited>
-		<year>2007</year>
-	</article>
+			<onpages>19-33</onpages>
+			<cited>220</cited>
+			<year>2007</year>
+		</article>
 
 
-	<article>
-		<title>Aggregating Sets of Judgments: Two Impossibility Results Compared</title>
-		<author>C List</author>
-		<author>P Pettit</author>
-		<journal>Synthese</journal>
+		<article>
+			<title>Aggregating Sets of Judgments: Two Impossibility Results Compared</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<journal>Synthese</journal>
 			<volume>140</volume>
 			<number>1</number>
-		<onpages>207-235</onpages>
-		<cited>203</cited>
-		<year>2004</year>
-	</article>
+			<onpages>207-235</onpages>
+			<cited>203</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>The discursive dilemma and public reason</title>
-		<author>C List</author>
-		<journal>Ethics</journal>
+		<article>
+			<title>The discursive dilemma and public reason</title>
+			<author>C List</author>
+			<journal>Ethics</journal>
 			<volume>116</volume>
 			<number>2</number>
-		<onpages>362-402</onpages>
-		<cited>154</cited>
-		<year>2006</year>
-	</article>
+			<onpages>362-402</onpages>
+			<cited>154</cited>
+			<year>2006</year>
+		</article>
 
 
-	<article>
-		<title>Deliberation, single-peakedness, and the possibility of meaningful democracy: evidence from deliberative polls</title>
-		<author>C List</author>
-		<author>RC Luskin</author>
-		<author>JS Fishkin</author>
-		<author>I McLean</author>
-		<journal>Journal of Politics</journal>
+		<article>
+			<title>Deliberation, single-peakedness, and the possibility of meaningful democracy:
+				evidence from deliberative polls</title>
+			<author>C List</author>
+			<author>RC Luskin</author>
+			<author>JS Fishkin</author>
+			<author>I McLean</author>
+			<journal>Journal of Politics</journal>
 			<volume>75</volume>
 			<number>01</number>
-		<onpages>80-95</onpages>
-		<cited>143</cited>
-		<year>2013</year>
-	</article>
+			<onpages>80-95</onpages>
+			<cited>143</cited>
+			<year>2013</year>
+		</article>
 
-	<article>
-		<title>Judgment aggregation by quota rules: Majority voting generalized</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Journal of Theoretical Politics</journal>
+		<article>
+			<title>Judgment aggregation by quota rules: Majority voting generalized</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Journal of Theoretical Politics</journal>
 			<volume>19</volume>
 			<number>4</number>
-		<onpages>391-424</onpages>
-		<cited>130</cited>
-		<year>2007</year>
-	</article>
+			<onpages>391-424</onpages>
+			<cited>130</cited>
+			<year>2007</year>
+		</article>
 
 
-	<article>
-		<title>Disaggregating deliberation's effects: An experiment within a deliberative poll</title>
-		<author>C Farrar</author>
-		<author>JS Fishkin</author>
-		<author>DP Green</author>
-		<author>C List</author> 
-		<author>RC Luskin</author>
-		<author>EL Paluck</author>
-		<journal>British Journal of Political Science</journal>
+		<article>
+			<title>Disaggregating deliberation's effects: An experiment within a deliberative
+				poll</title>
+			<author>C Farrar</author>
+			<author>JS Fishkin</author>
+			<author>DP Green</author>
+			<author>C List</author>
+			<author>RC Luskin</author>
+			<author>EL Paluck</author>
+			<journal>British Journal of Political Science</journal>
 			<volume>40</volume>
 			<number>2</number>
-		<onpages>333-47</onpages>
-		<cited>129</cited>
-		<year>2010</year>
-	</article>
+			<onpages>333-47</onpages>
+			<cited>129</cited>
+			<year>2010</year>
+		</article>
 
-	<article>
-		<title>The theory of judgment aggregation: An introductory review</title>
-		<author>C List</author>
-		<journal>Synthese</journal>
+		<article>
+			<title>The theory of judgment aggregation: An introductory review</title>
+			<author>C List</author>
+			<journal>Synthese</journal>
 			<volume>187</volume>
 			<number>1</number>
-		<onpages>179-207</onpages>
-		<cited>124</cited>
-		<year>2012</year>
-	</article>
+			<onpages>179-207</onpages>
+			<cited>124</cited>
+			<year>2012</year>
+		</article>
 
-	<article>
-		<title>A model of path-dependence in decisions over multiple propositions</title>
-		<author>C List</author>
-		<journal>American Political Science Review</journal>
+		<article>
+			<title>A model of path-dependence in decisions over multiple propositions</title>
+			<author>C List</author>
+			<journal>American Political Science Review</journal>
 			<volume>98</volume>
-		<onpages>495-514</onpages>
-		<cited>124</cited>
-		<year>2004</year>
-	</article>
-	
-	<article>
-		<title>Strategy-proof judgment aggregation</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Economics and Philosophy</journal>
+			<onpages>495-514</onpages>
+			<cited>124</cited>
+			<year>2004</year>
+		</article>
+
+		<article>
+			<title>Strategy-proof judgment aggregation</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Economics and Philosophy</journal>
 			<volume>23</volume>
 			<number>3</number>
-		<onpages>269</onpages>
-		<cited>123</cited>
-		<year>2007</year>
-	</article>
+			<onpages>269</onpages>
+			<cited>123</cited>
+			<year>2007</year>
+		</article>
 
-	<article>
-		<title>Non-reductive physicalism and the limits of the exclusion principle</title>
-		<author>C List</author>
-		<author>P Menzies</author>
-		<journal>Journal of Philosophy</journal>
+		<article>
+			<title>Non-reductive physicalism and the limits of the exclusion principle</title>
+			<author>C List</author>
+			<author>P Menzies</author>
+			<journal>Journal of Philosophy</journal>
 			<volume>106</volume>
 			<number>9</number>
-		<onpages>475-502</onpages>	
-		<cited>106</cited>	
-		<year>2009</year>
-	</article>
+			<onpages>475-502</onpages>
+			<cited>106</cited>
+			<year>2009</year>
+		</article>
 
-	<article>
-		<title>Democracy in animal groups: a political science perspective</title>
-		<author>C List</author>
-		<journal>Trends in Ecology and Evolution</journal> 
+		<article>
+			<title>Democracy in animal groups: a political science perspective</title>
+			<author>C List</author>
+			<journal>Trends in Ecology and Evolution</journal>
 			<volume>19</volume>
 			<number>4</number>
-		<onpages>168-169</onpages>
-		<cited>98</cited>
-		<year>2004</year>
-	</article>
+			<onpages>168-169</onpages>
+			<cited>98</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>A Reason-Based Theory of Rational Choice</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Nous</journal>
+		<article>
+			<title>A Reason-Based Theory of Rational Choice</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Nous</journal>
 			<volume>47</volume>
 			<number>1</number>
-		<onpages>104-134</onpages>
-		<cited>95</cited>
-		<year>2013</year>
-	</article>
+			<onpages>104-134</onpages>
+			<cited>95</cited>
+			<year>2013</year>
+		</article>
 
-	<article>
-		<title>Judgment aggregation without full rationality</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>Judgment aggregation without full rationality</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>31</volume>
 			<number>1</number>
-		<onpages>15-39</onpages>
-		<cited>95</cited>
-		<year>2008</year>
-	</article>
-	
-	<article>
-		<title>Group agency and supervenience</title>
-		<author>C List</author> 
-		<author>P Pettit</author>
-		<journal>The Southern Journal of Philosophy</journal> 
+			<onpages>15-39</onpages>
+			<cited>95</cited>
+			<year>2008</year>
+		</article>
+
+		<article>
+			<title>Group agency and supervenience</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<journal>The Southern Journal of Philosophy</journal>
 			<volume>44</volume>
 			<number>S1</number>
-		<onpages>85-105</onpages>
-		<cited>87</cited>
-		<year>2006</year>
-	</article>
+			<onpages>85-105</onpages>
+			<cited>87</cited>
+			<year>2006</year>
+		</article>
 
-	<article>
-		<title>The probability of inconsistencies in complex collective decisions</title>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
+		<article>
+			<title>The probability of inconsistencies in complex collective decisions</title>
+			<author>C List</author>
+			<journal>Social Choice and Welfare</journal>
 			<volume>24</volume>
 			<number>1</number>
-		<onpages>3-32</onpages>
-		<cited>82</cited>
-		<year>2005</year>
-	</article>
+			<onpages>3-32</onpages>
+			<cited>82</cited>
+			<year>2005</year>
+		</article>
 
-	<article>
-		<title>Group knowledge and group rationality: a judgment aggregation perspective</title>
-		<author>C List</author>
-		<journal>Episteme</journal>
+		<article>
+			<title>Group knowledge and group rationality: a judgment aggregation perspective</title>
+			<author>C List</author>
+			<journal>Episteme</journal>
 			<volume>2</volume>
 			<number>1</number>
-		<onpages>25-38</onpages>
-		<cited>79</cited>
-		<year>2005</year>
-	</article>
+			<onpages>25-38</onpages>
+			<cited>79</cited>
+			<year>2005</year>
+		</article>
 
-	<article>
-		<title>A model of jury decisions where all jurors have the same evidence</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Synthese</journal> 
+		<article>
+			<title>A model of jury decisions where all jurors have the same evidence</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Synthese</journal>
 			<volume>142</volume>
 			<number>2</number>
-		<onpages>175-202</onpages>
-		<cited>77</cited>
-		<year>2004</year>
-	</article>
+			<onpages>175-202</onpages>
+			<cited>77</cited>
+			<year>2004</year>
+		</article>
 
-	<article>
-		<title>Corrigendum to "A possibility theorem on aggregation over multiple interconnected propositions" [Mathematical Social Sciences 45 (2003), 1-13]</title>
-		<author>C List</author>
-		<journal>Mathematical Social Sciences</journal>
-			<volume>52</volume> 
+		<article>
+			<title>Corrigendum to "A possibility theorem on aggregation over multiple interconnected
+				propositions" [Mathematical Social Sciences 45 (2003), 1-13]</title>
+			<author>C List</author>
+			<journal>Mathematical Social Sciences</journal>
+			<volume>52</volume>
 			<number>1</number>
-		<onpages>109-110</onpages>	
-		<cited>73</cited>
-		<year>2006</year>
-	</article>
+			<onpages>109-110</onpages>
+			<cited>73</cited>
+			<year>2006</year>
+		</article>
 
-	<article>
-		<title>A possibility theorem on aggregation over multiple interconnected propositions</title>
-		<author>C List</author>
-		<journal>Mathematical Social Sciences</journal>
+		<article>
+			<title>A possibility theorem on aggregation over multiple interconnected
+				propositions</title>
+			<author>C List</author>
+			<journal>Mathematical Social Sciences</journal>
 			<volume>45</volume>
 			<number>1</number>
-		<onpages>1-13</onpages>
-		<cited>73</cited>
-		<year>2003</year>
-	</article>
+			<onpages>1-13</onpages>
+			<cited>73</cited>
+			<year>2003</year>
+		</article>
 
-	<article>
-		<title>Two concepts of agreement</title>
-		<author>C List</author>
-		<journal>The Good Society</journal>
-			<volume>11</volume> 
+		<article>
+			<title>Two concepts of agreement</title>
+			<author>C List</author>
+			<journal>The Good Society</journal>
+			<volume>11</volume>
 			<number>1</number>
-		<onpages>72-79</onpages>
-		<cited>73</cited>
-		<year>2002</year>
-	</article>
+			<onpages>72-79</onpages>
+			<cited>73</cited>
+			<year>2002</year>
+		</article>
 
-	<article>
-		<title>Methodological individualism and holism in political science: A reconciliation</title>
-		<author>C List</author> 
-		<author>K Spiekermann</author>
-		<journal>American Political Science Review</journal>
+		<article>
+			<title>Methodological individualism and holism in political science: A
+				reconciliation</title>
+			<author>C List</author>
+			<author>K Spiekermann</author>
+			<journal>American Political Science Review</journal>
 			<volume>107</volume>
 			<number>4</number>
-		<onpages>629-643</onpages>
-		<cited>71</cited>
-		<year>2013</year>
-	</article>
+			<onpages>629-643</onpages>
+			<cited>71</cited>
+			<year>2013</year>
+		</article>
 
-	<article>
-		<title>Introduction to judgment aggregation</title>
-		<author>C List</author>
-		<author>B Polak</author>
-		<journal>Journal of Economic Theory</journal>
+		<article>
+			<title>Introduction to judgment aggregation</title>
+			<author>C List</author>
+			<author>B Polak</author>
+			<journal>Journal of Economic Theory</journal>
 			<volume>145</volume>
 			<number>2</number>
-		<onpages>441-466</onpages>
-		<cited>71</cited>
-		<year>2010</year>
-	</article>
-	
-	<article>
-		<title>On the many as one: a reply to Kornhauser and Sager</title>
-		<author>C List</author> 
-		<author>P Pettit</author>
-		<journal>Philosophy and Public Affairs</journal>
-			<volume>33</volume>
-			<number>4</number> 
-		<onpages>377-390</onpages>
-		<cited>62</cited>	
-		<year>2005</year>
-	</article>
-	
-	<article>
-		<title>Where do preferences come from?</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>International Journal of Game Theory</journal>
-			<volume>42</volume>
-			<number>3</number> 
-		<onpages>613-637</onpages>	
-		<cited>61</cited>	
-		<year>2013</year>
-	</article>
-	
-	<article>
-		<title>Can There Be a Global Demos? An Agency-Based Approach</title>
-		<author>C List</author>
-		<author>M Koenig-Archibugi</author>
-		<journal>Philosophy and Public Affairs </journal>
-			<volume>38 </volume>
-			<number>1</number> 
-		<onpages>76-110</onpages>
-		<cited>57</cited>	
-		<year>2010</year>
-	</article>
-	
-	<article>
-		<title>Majority voting on restricted domains</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Journal of Economic Theory</journal> 
-			<volume>145</volume> 
-			<number>2</number> 
-		<onpages>512-543</onpages>	
-		<cited>56</cited>
-		<year>2010</year>
-	</article>
+			<onpages>441-466</onpages>
+			<cited>71</cited>
+			<year>2010</year>
+		</article>
 
-	<article>
-		<title>A conditional defense of plurality rule: generalizing May's theorem in a restricted informational environment</title>
-		<author>RE Goodin</author>
-		<author>C List</author>
-		<journal>American Journal of Political Science</journal>
+		<article>
+			<title>On the many as one: a reply to Kornhauser and Sager</title>
+			<author>C List</author>
+			<author>P Pettit</author>
+			<journal>Philosophy and Public Affairs</journal>
+			<volume>33</volume>
+			<number>4</number>
+			<onpages>377-390</onpages>
+			<cited>62</cited>
+			<year>2005</year>
+		</article>
+
+		<article>
+			<title>Where do preferences come from?</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>International Journal of Game Theory</journal>
+			<volume>42</volume>
+			<number>3</number>
+			<onpages>613-637</onpages>
+			<cited>61</cited>
+			<year>2013</year>
+		</article>
+
+		<article>
+			<title>Can There Be a Global Demos? An Agency-Based Approach</title>
+			<author>C List</author>
+			<author>M Koenig-Archibugi</author>
+			<journal>Philosophy and Public Affairs </journal>
+			<volume>38 </volume>
+			<number>1</number>
+			<onpages>76-110</onpages>
+			<cited>57</cited>
+			<year>2010</year>
+		</article>
+
+		<article>
+			<title>Majority voting on restricted domains</title>
+			<author>F Dietrich</author>
+			<author>C List</author>
+			<journal>Journal of Economic Theory</journal>
+			<volume>145</volume>
+			<number>2</number>
+			<onpages>512-543</onpages>
+			<cited>56</cited>
+			<year>2010</year>
+		</article>
+
+		<article>
+			<title>A conditional defense of plurality rule: generalizing May's theorem in a
+				restricted informational environment</title>
+			<author>RE Goodin</author>
+			<author>C List</author>
+			<journal>American Journal of Political Science</journal>
 			<volume>50</volume>
 			<number>4</number>
-		<onpages>940-949</onpages>
-		<cited>54</cited>
-		<year>2006</year>
-	</article>
+			<onpages>940-949</onpages>
+			<cited>54</cited>
+			<year>2006</year>
+		</article>
 
-	<article>
-		<title>In Defence of Voting Power Analysis: Responses to Albert</title>
-		<author>DS Felsenthal</author>
-		<author>D Leech</author>
-		<author>C List</author>
-		<author>M Machover</author>
-		<journal>European Union Politics</journal>
+		<article>
+			<title>In Defence of Voting Power Analysis: Responses to Albert</title>
+			<author>DS Felsenthal</author>
+			<author>D Leech</author>
+			<author>C List</author>
+			<author>M Machover</author>
+			<journal>European Union Politics</journal>
 			<volume>4</volume>
-			<number>4</number> 
-		<onpages>473-497</onpages>	
-		<cited>46</cited>	
-		<year>2003</year>
-	</article>
+			<number>4</number>
+			<onpages>473-497</onpages>
+			<cited>46</cited>
+			<year>2003</year>
+		</article>
 
-	<article>
-		<title>Free will, determinism, and the possibility of doing otherwise</title>
-		<author>C List</author>
-		<journal>Noûs</journal>
+		<article>
+			<title>Free will, determinism, and the possibility of doing otherwise</title>
+			<author>C List</author>
+			<journal>Noûs</journal>
 			<volume>48</volume>
 			<number>1</number>
-		<onpages>156-178</onpages>
-		<cited>43</cited>
-		<year>2014</year>
-	</article>
+			<onpages>156-178</onpages>
+			<cited>43</cited>
+			<year>2014</year>
+		</article>
 
 </publications>
+
