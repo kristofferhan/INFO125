@@ -4,13 +4,26 @@
 	xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
 	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
 	<start>
+		
 		<element name="publications">
 			<oneOrMore>
+				
 				<element name="publication">
+					
 					<element name="article">
+						
 						<element name="title"><text/></element>
-						<element name="author"><text/></element>
-						<oneOrMore>
+						
+							<group>
+								<element name="authors">
+									<oneOrMore>
+										<element name="author">
+											<text/>
+										</element>
+									</oneOrMore>
+								</element>
+							</group>
+						
 							<group>
 								<element name ="journal">
 									<element name="title"><text/></element>
@@ -22,7 +35,7 @@
 									</element>
 								</element>
 							</group>
-						</oneOrMore>
+						
 						<element name="pages">
 							<text/>
 						</element>
@@ -32,9 +45,12 @@
 						<element name="year">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
+						
 					</element>
 				</element>
+				
 				<element name="publication">
+					
 					<element name="book">
 						<element name="author">
 							<text/>
