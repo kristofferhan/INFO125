@@ -136,146 +136,222 @@
 	<publication>
 		<article>
 			<title>Are interpersonal comparisons of utility indeterminate?</title>
-			<author>C List</author>
-			<journal>Erkenntnis</journal>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Erkenntnis</title>
 				<volume>58</volume>
 				<number>2</number>
+			</journal>
 			<pages>229-260</pages>
 			<cited>30</cited>
 			<year>2003</year>
 		</article>
 	</publication>
 	
+	<publication>
 		<article>
 			<title>Mentalism versus Behaviourism in Economics: A Philosophy-of-Science Perspective</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Economics and Philosophy</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Economics and Philosophy</title>
+			</journal>
 			<cited>27</cited>
-			<year>2016</year>
+			<year>2016</year>		
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Special majorities rationalized</title>
-			<author>RE Goodin</author>
-			<author>C List</author>
-			<journal>British Journal of Political Science</journal>
+			<authors>
+				<author>RE Goodin</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>British Journal of Political Science</title>
 				<volume>36</volume>
 				<number>2</number>
+			</journal>
 			<pages>213</pages>
 			<cited>27</cited>
 			<year>2006</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>A model of non-informational preference change</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Journal of Theoretical Politics</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Journal of Theoretical Politics</title>
 				<volume>23</volume>
 				<number>2</number>
+			</journal>
 			<pages>145-164</pages>
 			<cited>26</cited>
 			<year>2011</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<chapter>
 			<title>Deliberation and agreement</title>
-			<author>C List</author>
-			<collection>Deliberation, Participation and Democracy</collection>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<collection>
+				<title>Deliberation, Participation and Democracy</title>
+			</collection>
 			<cited>26</cited>
 			<year>2007</year>
 		</chapter>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Framing as path dependence</title>
-			<author>N Gold</author>
-			<author>C List</author>
-			<journal>Economics and Philosophy</journal>
+			<authors>
+				<author>N Gold</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Economics and Philosophy</title>
 				<volume>20</volume>
 				<number>2</number>
+			</journal>
 			<pages>253-277</pages>
 			<cited>26</cited>
 			<year>2004</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<chapter>
 			<title>An epistemic free-riding problem</title>
-			<author>C List</author>
-			<author>P Pettit</author>
-			<collection>Karl Popper: Critical Appraisals</collection>
+			<authors>
+				<author>C List</author>
+				<author>P Pettit</author>
+			</authors>
+			<collection>
+				<title>Karl Popper: Critical Appraisals</title>
 				<editor>Philip Catton</editor>
 				<editor>Graham Macdonaldz</editor>
+			</collection>
 			<cited>25</cited>
 			<year>2004</year>
 		</chapter>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Judgment aggregation with consistency alone</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Department of Government, London School of Economics and Political Science</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Department of Government, London School of Economics and Political Science</title>
+			</journal>
 			<cited>23</cited>
 			<year>2007</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>The impossibility of a Paretian republican? Some comments on Pettit and Sen</title>
-			<author>C List</author>
-			<journal>Economics and Philosophy</journal>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Economics and Philosophy</title>
 				<volume>20</volume>
 				<number>01</number>
+			</journal>
 			<pages>65-87</pages>
 			<cited>23</cited>
 			<year>2004</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Probabilistic opinion pooling generalized: Part one: General agendas</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Social Choice and Welfare</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Social Choice and Welfare</title>
 				<volume>48</volume>
 				<number>4</number>
+			</journal>
 			<pages>747–786</pages>
 			<cited>22</cited>
 			<year>2017</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Desire-as-belief revisited</title>
-			<author>R Bradley</author>
-			<author>List</author>
-			<journal>Analysis</journal>
+			<authors>
+				<author>R Bradley</author>
+				<author>List</author>
+			</authors>
+			<journal>
+				<title>Analysis</title>
 				<volume>69</volume>
 				<number>1</number>
+			</journal>
 			<pages>31-37</pages>
 			<cited>21</cited>
 			<year>2008</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>The two-envelope paradox: An axiomatic approach</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Mind</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Mind</title>
 				<volume>114</volume>
 				<number>454</number>
+			</journal>
 			<pages>239-248</pages>
 			<cited>20</cited>
 			<year>2005</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>The logical space of democracy</title>
-			<author>C List</author>
-			<journal>Philosophy and Public Affairs</journal>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Philosophy and Public Affairs</title>
 				<volume>39</volume>
 				<number>3</number>
+			</journal>
 			<pages>262-297</pages>
 			<cited>19</cited>
 			<year>2011</year>
 		</article>
+	</publication>
 	
 		<article>
 			<title>Opinion pooling on general agendas</title>

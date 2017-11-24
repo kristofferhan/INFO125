@@ -24,17 +24,21 @@
 							<group>
 								<element name ="journal">
 									<element name="title"><text/></element>
+									<optional>
 									<element name="volume">
 										<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 									</element>
 									<element name="number">
 									<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 									</element>
+									</optional>
 								</element>
 							</group>
+						<optional>
 						<element name="pages">
 							<text/>
 						</element>
+						</optional>
 						<element name="cited">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
@@ -96,9 +100,11 @@
 										<text/>
 									</element>
 									<optional>
+									<oneOrMore>
 									<element name="editor">
 										<text/>
 									</element>
+									</oneOrMore>
 									</optional>
 								</oneOrMore>
 							</element>
