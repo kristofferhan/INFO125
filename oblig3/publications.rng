@@ -35,7 +35,7 @@
 								</element>
 							</group>
 						<optional>
-						<element name="pages">
+						<element name="onpages">
 							<text/>
 						</element>
 						</optional>
@@ -45,6 +45,11 @@
 						<element name="year">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
+						<optional>
+						<element name="language">
+							<text/>
+						</element>
+						</optional>
 					</element>
 				</element>
 
@@ -69,10 +74,10 @@
 						<element name="totalpages">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
-						</optional>
 						<element name="cited">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
+						</optional>
 						<element name="year">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
