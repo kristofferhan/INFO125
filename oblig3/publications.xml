@@ -26,79 +26,114 @@
 			<authors>
 				<author>C List</author>
 			</authors>
-			<collection>Stanford Encyclopedia of Philosophy</collection>
+			<collection>
+				<title>Stanford Encyclopedia of Philosophy</title>
+			</collection>
 			<cited>40</cited>
 			<year>2013</year>
 		</chapter>
 	</publication>
 	
-	
+	<publication>
 		<article>
 			<title>Group communication and the transformation of judgments: an impossibility result</title>
-			<author>List</author>
-			<journal>Journal of Political Philosophy</journal>
+			<authors>
+				<author>List</author>
+			</authors>	
+			<journal>
+				<title>Journal of Political Philosophy</title>
 				<volume>19</volume>
 				<number>1</number>
+			</journal>
 			<pages>1-27</pages>
 			<cited>39</cited>
 			<year>2011</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<chapter>
 			<title>The Causal Autonomy of the Special Sciences</title>
-			<author>P Menzies</author>
-			<author>C List</author>
-			<collection>Emergence in Mind</collection>
+			<authors>
+				<author>P Menzies</author>
+				<author>C List</author>
+			</authors>
+			<collection>
+				<title>Emergence in Mind</title>
 				<editor>C. Mcdonald</editor>
-				<editor>G. Mcdonald</editor>
+			</collection>
 			<cited>39</cited>
 			<year>2010</year>
 		</chapter>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Republican freedom and the rule of law</title>
-			<author>C List</author>
-			<journal>Politics, Philosophy and Economics</journal>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Politics, Philosophy and Economics</title>
 				<volume>5</volume>
 				<number>2</number>
+			</journal>
 			<pages>201-220</pages>
 			<cited>39</cited>
 			<year>2006</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>On the significance of the absolute margin</title>
-			<author>C List</author>
-			<journal>The British journal for the philosophy of science</journal>
+			<authors>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>The British journal for the philosophy of science</title>
 				<volume>55</volume>
 				<number>3</number>
+			</journal>
 			<pages>521-544</pages>
 			<cited>33</cited>
 			<year>2004</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Propositionwise judgment aggregation: the general case</title>
-			<author>F Dietrich</author>
-			<author>C List</author>
-			<journal>Social Choice and Welfare</journal>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>
+				<title>Social Choice and Welfare</title>
 				<volume>40</volume>
 				<number>4</number>
+			</journal>
 			<pages>1067-1095</pages>
 			<cited>32</cited>
 			<year>2013</year>
 		</article>
+	</publication>
 	
+	<publication>
 		<book>
 			<title>Deliberation and decision: Economics, constitutional theory and deliberative democracy</title>
-			<author>A Van Aaken</author>
-			<author>C List</author>
-			<author>C Luetge</author>
+			<authors>
+				<author>A Van Aaken</author>
+				<author>C List</author>
+				<author>C Luetge</author>
+			</authors>
 			<publisher>Ashgate Pub Ltd</publisher>
 			<cited>31</cited>
 			<year>2004</year>
 		</book>
+	</publication>
 	
+	<publication>
 		<article>
 			<title>Are interpersonal comparisons of utility indeterminate?</title>
 			<author>C List</author>
@@ -109,7 +144,7 @@
 			<cited>30</cited>
 			<year>2003</year>
 		</article>
-	
+	</publication>
 	
 		<article>
 			<title>Mentalism versus Behaviourism in Economics: A Philosophy-of-Science Perspective</title>

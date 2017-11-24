@@ -7,6 +7,7 @@
 
 		<element name="publications">
 			<oneOrMore>
+				<choice>
 
 				<element name="publication">
 					<element name="article">
@@ -60,7 +61,12 @@
 						<element name="publisher">
 							<text/>
 						</element>
+						<optional>
 						<element name="totalpages">
+							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+						</element>
+						</optional>
+						<element name="cited">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
 						<element name="year">
@@ -83,9 +89,20 @@
 								</oneOrMore>
 							</element>
 						</group>
-						<element name="collection">
-							<text/>
-						</element>
+						<group>
+							<element name="collection">
+								<oneOrMore>
+									<element name="title">
+										<text/>
+									</element>
+									<optional>
+									<element name="editor">
+										<text/>
+									</element>
+									</optional>
+								</oneOrMore>
+							</element>
+						</group>
 						<element name="cited">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
@@ -94,7 +111,8 @@
 						</element>
 					</element>
 				</element>
-
+					
+				</choice>
 			</oneOrMore>
 		</element>
 	</start>
