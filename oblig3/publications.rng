@@ -52,9 +52,17 @@
 				<element name="publication">
 
 					<element name="book">
-						<element name="author">
-							<text/>
-						</element>
+
+						<group>
+							<element name="authors">
+								<oneOrMore>
+									<element name="author">
+										<text/>
+									</element>
+								</oneOrMore>
+							</element>
+						</group>
+						
 						<element name="publisher">
 							<text/>
 						</element>
@@ -86,7 +94,7 @@
 						</element>
 					</element>
 				</element>
-				
+
 			</oneOrMore>
 		</element>
 	</start>
