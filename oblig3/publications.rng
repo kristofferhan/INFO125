@@ -9,11 +9,8 @@
 			<oneOrMore>
 
 				<element name="publication">
-
 					<element name="article">
-
 						<element name="title"><text/></element>
-
 							<group>
 								<element name="authors">
 									<oneOrMore>
@@ -23,7 +20,6 @@
 									</oneOrMore>
 								</element>
 							</group>
-
 							<group>
 								<element name ="journal">
 									<element name="title"><text/></element>
@@ -35,7 +31,6 @@
 									</element>
 								</element>
 							</group>
-
 						<element name="pages">
 							<text/>
 						</element>
@@ -45,14 +40,14 @@
 						<element name="year">
 							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 						</element>
-
 					</element>
 				</element>
 
 				<element name="publication">
-
 					<element name="book">
-
+						<element name="title">
+							<text/>
+						</element>
 						<group>
 							<element name="authors">
 								<oneOrMore>
@@ -62,7 +57,6 @@
 								</oneOrMore>
 							</element>
 						</group>
-						
 						<element name="publisher">
 							<text/>
 						</element>
@@ -80,9 +74,15 @@
 						<element name="title">
 							<text/>
 						</element>
-						<element name="author">
-							<text/>
-						</element>
+						<group>
+							<element name="authors">
+								<oneOrMore>
+									<element name="author">
+										<text/>
+									</element>
+								</oneOrMore>
+							</element>
+						</group>
 						<element name="collection">
 							<text/>
 						</element>
