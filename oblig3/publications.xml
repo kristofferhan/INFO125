@@ -1,18 +1,24 @@
 
 <?xml-model href="publications.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <publications>
+	
+	<publication>
 
-	<article>
-		<title>A liberal paradox for judgment aggregation</title>
-		<author>F Dietrich</author>
-		<author>C List</author>
-		<journal>Social Choice and Welfare</journal>
-			<volume>31</volume>
-			<number>1</number>
-		<pages>59-78</pages>
-		<cited>42</cited>
-		<year>2008</year>
-	</article>
+		<article>
+			<title>A liberal paradox for judgment aggregation</title>
+			<authors>
+				<author>F Dietrich</author>
+				<author>C List</author>
+			</authors>
+			<journal>Social Choice and Welfare</journal>
+				<volume>31</volume>
+				<number>1</number>
+			<pages>59-78</pages>
+			<cited>42</cited>
+			<year>2008</year>
+		</article>
+		
+	</publication>
 
 	<chapter>
 		<title>Social Choice Theory</title>
