@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar
-	xmlns="http://relaxng.org/ns/structure/1.0"
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
 	xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
 	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
 	<start>
@@ -9,9 +8,11 @@
 			<oneOrMore>
 				<choice>
 
-				<element name="publication">
-					<element name="article">
-						<element name="title"><text/></element>
+					<element name="publication">
+						<element name="article">
+							<element name="title">
+								<text/>
+							</element>
 							<group>
 								<element name="authors">
 									<oneOrMore>
@@ -22,107 +23,127 @@
 								</element>
 							</group>
 							<group>
-								<element name ="journal">
-									<element name="title"><text/></element>
-									<optional>
-									<element name="volume">
-										<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-									</element>
-									<element name="number">
-									<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-									</element>
-									</optional>
-								</element>
-							</group>
-						<optional>
-						<element name="onpages">
-							<text/>
-						</element>
-						</optional>
-						<element name="cited">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-						<element name="year">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-						<optional>
-						<element name="language">
-							<text/>
-						</element>
-						</optional>
-					</element>
-				</element>
-
-				<element name="publication">
-					<element name="book">
-						<element name="title">
-							<text/>
-						</element>
-						<group>
-							<element name="authors">
-								<oneOrMore>
-									<element name="author">
-										<text/>
-									</element>
-								</oneOrMore>
-							</element>
-						</group>
-						<element name="publisher">
-							<text/>
-						</element>
-						<optional>
-						<element name="totalpages">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-						<element name="cited">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-						</optional>
-						<element name="year">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-					</element>
-				</element>
-
-				<element name="publication">
-					<element name="chapter">
-						<element name="title">
-							<text/>
-						</element>
-						<group>
-							<element name="authors">
-								<oneOrMore>
-									<element name="author">
-										<text/>
-									</element>
-								</oneOrMore>
-							</element>
-						</group>
-						<group>
-							<element name="collection">
-								<oneOrMore>
+								<element name="journal">
 									<element name="title">
 										<text/>
 									</element>
 									<optional>
-									<oneOrMore>
-									<element name="editor">
-										<text/>
-									</element>
-									</oneOrMore>
+										<element name="volume">
+											<data type="integer"
+												datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+											/>
+										</element>
 									</optional>
-								</oneOrMore>
+									<optional>
+										<element name="issue">
+											<text/>
+										</element>
+									</optional>
+
+								</element>
+							</group>
+							<optional>
+								<element name="onpages">
+									<text/>
+								</element>
+							</optional>
+							<element name="cited">
+								<data type="integer"
+									datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
 							</element>
-						</group>
-						<element name="cited">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
-						</element>
-						<element name="year">
-							<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+							<element name="year">
+								<data type="integer"
+									datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+							</element>
+							<optional>
+								<element name="language">
+									<text/>
+								</element>
+							</optional>
 						</element>
 					</element>
-				</element>
-					
+
+					<element name="publication">
+						<element name="book">
+							<element name="title">
+								<text/>
+							</element>
+							<group>
+								<element name="authors">
+									<oneOrMore>
+										<element name="author">
+											<text/>
+										</element>
+									</oneOrMore>
+								</element>
+							</group>
+							<element name="publisher">
+								<text/>
+							</element>
+							<optional>
+
+								<element name="totalpages">
+									<data type="integer"
+										datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+
+								</element>
+							</optional>
+							<optional>
+								<element name="cited">
+									<data type="integer"
+										datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+									/>
+								</element>
+
+							</optional>
+							<element name="year">
+								<data type="integer"
+									datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+							</element>
+						</element>
+					</element>
+
+					<element name="publication">
+						<element name="chapter">
+							<element name="title">
+								<text/>
+							</element>
+							<group>
+								<element name="authors">
+									<oneOrMore>
+										<element name="author">
+											<text/>
+										</element>
+									</oneOrMore>
+								</element>
+							</group>
+							<group>
+								<element name="collection">
+									<oneOrMore>
+										<element name="title">
+											<text/>
+										</element>
+										<optional>
+											<oneOrMore>
+												<element name="editor">
+												<text/>
+												</element>
+											</oneOrMore>
+										</optional>
+									</oneOrMore>
+								</element>
+							</group>
+							<element name="cited">
+								<data type="integer"
+									datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+							</element>
+							<element name="year">
+								<data type="integer"
+									datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+							</element>
+						</element>
+					</element>
+
 				</choice>
 			</oneOrMore>
 		</element>
