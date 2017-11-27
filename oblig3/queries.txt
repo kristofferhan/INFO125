@@ -1,0 +1,84 @@
+Obligatory assignment 3 - INFO125
+Students:
+Kristoffer Hansen yih002,
+Kamilla Emilie Davidsen guc005,
+Morten Pedersen pap004
+
+3. XPATH/XQuery
+
+1. 
+
+//book/title
+
+2.
+
+//collection/editor
+
+3.
+
+//language
+
+4.
+
+//*[cited = max(//cited) and //year < 2010]/title
+
+5.
+
+count(//publication/*[year=2009])
+
+6.
+
+let $b := //publication/*/year
+for $a in
+        max(for $val in distinct-values($b)
+                return count(index-of($b, $val))
+                )
+return
+        distinct-values($b)[count(index-of($b, .)) eq    $a]
+
+7.
+
+for $b in //publication/*/authors/author[3]
+where $b = "C List"
+return $b/ancestor::publication
+
+8.
+
+//publication/*[matches(title, 'judgment')] /title
+
+9.
+
+        for $b in //publication
+where $b/*/cited >= 400
+return $b
+
+10.
+
+    for $b in //article
+where $b/authors[count(author) >=3]
+return $b/journal/title
+
+11.
+
+12.
+
+<ul>
+{
+for $x in distinct-values(//article/journal)
+let $z := count(//article|book|chapter)
+order by $x
+return
+<li>{$x}
+    <ul>{$z}</>
+</li>
+}
+</ul>
+-----------
+<ul> {
+for $x in distinct-values(//article/journal)
+let $z := //article/title
+let $y := count($z)
+return <ul><li>{$x}</li>
+<li>{$y}</li>
+</ul>
+} </ul>
